@@ -1,0 +1,135 @@
+59	Rapture
+52	Color Slant
+4	Mesmerize
+58	Fetter
+51	Theft of Thought
+57	Tashanian
+24	Illusion: Skeleton
+12	Bind Affinity
+4	Invisibility
+50	Improved Invisibility
+57	Umbra
+49	Group Resist Magic
+52	Rune V
+54	Shield of the Magi
+58	Bedlam
+4	Gate
+34	Mana Sieve
+54	Glamour of Kintaz
+44	Weakness
+53	Cripple
+59	Asphyxiate
+8	Chaotic Feedback
+56	Torment of Argli
+8	Eye of Confusion
+54	Clarity II
+60	Gift of Brilliance
+56	Overwhelming Splendor
+8	Bind Sight
+57	Forlorn Deeds
+60	Visions of Grandeur
+44	Pillage Enchantment
+53	Recant Magic
+49	Dazzle
+12	Memory Blur
+49	Allure
+53	Boltran`s Agacerie
+16	Invisibility versus Undead
+55	Zumaik`s Animation
+60	Dictate
+44	Summon Companion
+8	Soothe
+39	Pacify
+51	Collaboration
+53	Aanya's Quickening
+8	See Invisible
+39	Invoke Fear
+39	Wandering Mind
+54	Dementia
+4	Illusion: Half-Elf
+20	Illusion: Ogre
+12	Illusion: Dark Elf
+16	Illusion: Dwarf
+12	Illusion: Erudite
+20	Illusion: Troll
+16	Shalee`s Animation
+12	Kilan`s Animation
+16	Illusion: Barbarian
+39	Illusion: Dry Bone
+52	Boon of the Clear Mind
+16	Shielding
+24	Alacrity
+16	Quickness
+39	Celerity
+44	Boon of the Garou
+44	Rune IV
+44	Brilliance
+12	Whirl till you hurl
+39	Gravity Flux
+8	Cancel Magic
+8	Root
+8	Alliance
+55	Largarn's Lamentation
+8	Mircyl's Animation
+39	Cajoling Whispers
+12	Serpent Sight
+55	Memory Flux
+34	Anarchy
+49	Swift like the Wind
+49	Kintaz`s Animation
+12	Charm
+49	Adorning Grace
+12	Ebbing Strength
+20	Tashani
+12	Languid Pace
+12	Enduring Breath
+56	Augment
+51	Wake of Tranquility
+12	Choke
+49	Paralyzing Earth
+44	Arch Shielding
+34	Rune III
+16	Identify
+49	Gasping Embrace
+24	Rune II
+58	Wonderous Rapidity
+16	Breeze
+24	Chaos Flux
+24	Major Shielding
+29	Augmentation
+20	Color Shift
+29	Suffocate
+29	Dyn`s Dizzying Draught
+29	Listless Power
+20	Calm
+4	Tashan
+24	Beguile
+34	Enchant Platinum
+16	Rune I
+24	Strip Enchantment
+16	Sanity Warp
+1	Weaken
+4	Fear
+4	Juli`s Animation
+1	Shallow Breath
+1	Minor Shielding
+34	Entrance
+4	Suffocating Sphere
+4	Haze
+8	Sentinel
+44	Discordant Mind
+1	Strengthen
+29	Clarity
+4	Color Flux
+20	Endure Magic
+16	Mesmerization
+20	Berserker Strength
+57	Enlightenment
+29	Illusion: Air Elemental
+16	Enchant Electrum
+8	Enchant Silver
+24	Enchant Gold
+8	Enchant Clay
+60	Wind of Tishanian
+52	Fascination
+1	Pendril's Animation

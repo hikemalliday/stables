@@ -1,0 +1,47 @@
+1	Chant of Battle
+5	Selo`s Accelerando
+2	Chords of Dissonance
+6	Hymn of Restoration
+3	Jaxan`s Jig o` Vigor
+7	Jonthan's Whistling Warsong
+4	Lyssa`s Locating Lyric
+10	Anthem de Arms
+12	Brusco`s Boastful Bellow
+23	Selo`s Consonant Chain
+16	Tarew`s Aquatic Ayre
+19	Shauri`s Sonorous Clouding
+17	Guardian Rhythms
+26	Angstlich`s Appalling Screech
+15	Kelin`s Lucid Lullaby
+25	Psalm of Warmth
+27	Solon`s Song of the Sirens
+30	Fufil`s Curtailing Chant
+28	Crission`s Pixie Strike
+18	Denon`s Disruptive Discord
+32	Cassindra`s Chorus of Clarity
+20	Largo`s Melodic Binding
+13	Purifying Rhythms
+38	Tuyen`s Chant of Flame
+36	Vilia`s Verses of Celerity
+43	Denon`s Desperate Dirge
+35	Denon`s Dissension
+46	Tuyen`s Chant of Frost
+31	Agilmente`s Aria of Eagles
+40	Syvelian`s Anti-Magic Aria
+42	McVaxius` Berserker Crescendo
+41	Psalm of Mystic Shielding
+39	Solon`s Bewitching Bravura
+45	Jonthan's Provocation
+50	Verses of Victory
+51	Selo`s Song of Travel
+51	Largo`s Absonant Binding
+52	Nillipus` March of the Wee
+53	Song of Dawn
+55	Brusco`s Bombastic Bellow
+53	Song of Twilight
+34	Lyssa`s Solidarity of Vision
+54	Selo`s Assonant Strane
+24	Lyssa`s Veracious Concord
+54	Vilia`s Chorus of Celerity
+11	Cinda`s Charismatic Carillon
+55	Cantana of Replenishment

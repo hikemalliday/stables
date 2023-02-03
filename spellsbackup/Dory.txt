@@ -1,0 +1,66 @@
+49	Ensnaring Roots
+51	Ensnare
+9	Flame Lick
+59	Calefaction
+50	Call of Earth
+49	Call of Flame
+52	Firestrike
+54	Drones of Doom
+49	Immolate
+30	Stinging Swarm
+57	Greater Healing
+39	Call of Sky
+55	Call of Fire
+30	Eyes of the Cat
+55	Resist Cold
+56	Chill Sight
+53	Storm Strength
+15	Feet like Cat
+60	Thorncoat
+49	Resist Fire
+55	Chloroplast
+59	Skin like Nature
+58	Shield of Spikes
+60	Call of the Predator
+52	Extinguish Fatigue
+51	Strength of Nature
+22	Enduring Breath
+30	Spirit of Wolf
+56	Greater Wolf Form
+15	Cure Poison
+39	Healing
+15	Grasping Roots
+39	See Invisible
+22	Harmony
+49	Superior Camouflage
+22	Bind Sight
+30	Cancel Magic
+58	Nullify Magic
+39	Levitate
+30	Invigor
+51	Jolt
+39	Calm Animal
+15	Dance of the Fireflies
+39	Careless Lightning
+15	Invoke Lightning
+9	Glimpse
+9	Snare
+30	Barbcoat
+9	Minor Healing
+30	Strength of Earth
+22	Ward Summoned
+39	Skin like Steel
+30	Shield of Thistles
+9	Lull Animal
+9	Endure Fire
+22	Light Healing
+22	Skin like Rock
+9	Skin like Wood
+15	Thistlecoat
+15	Burst of Fire
+22	Ignite
+15	Camouflage
+54	Skin like Diamond
+49	Wolf Form
+49	Shield of Brambles
+39	Bramblecoat

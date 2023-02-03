@@ -1,0 +1,62 @@
+49	Ice Comet
+44	Conflagration
+24	Levitate
+12	Bind Affinity
+44	Diamondskin
+34	Harvest
+44	Elemental Armor
+44	Arch Shielding
+29	Bonds of Force
+20	Enstill
+12	Cancel Magic
+16	Bind Sight
+16	Invisibility
+4	See Invisible
+29	Yonder
+4	Gate
+20	Fay Gate
+29	Fay Portal
+24	Nek Gate
+34	Nek Portal
+24	Common Gate
+39	Common Portal
+24	Cazic Gate
+34	Cazic Portal
+24	Ro Gate
+39	Ro Portal
+20	Tox Gate
+29	Tox Portal
+20	North Gate
+29	North Portal
+24	West Gate
+39	West Portal
+29	Evacuate: North
+34	Combine Portal
+39	Evacuate: Ro
+39	Markar's Relocation
+39	Tishan's Relocation
+34	Iceclad Portal
+34	Iceclad Gate
+46	Alter Plane: Hate
+46	Alter Plane: Sky
+16	Project Lightning
+20	Tishan's Clash
+20	Force Shock
+4	Shock of Fire
+29	Inferno Shock
+24	Leatherskin
+16	Shielding
+34	Ice Shock
+12	Shock of Lightning
+16	Lightning Bolt
+24	Major Shielding
+24	Frost Shock
+24	Cast Force
+39	Lightning Shock
+8	Fire Bolt
+29	Thunder Strike
+1	Shock of Frost
+8	Fingers of Fire
+1	Minor Shielding
+4	Root
+8	Shadow Step

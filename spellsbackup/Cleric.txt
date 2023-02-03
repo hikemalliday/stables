@@ -1,0 +1,159 @@
+1   Courage
+1   Cure Poison
+1   Divine Aura
+1   Flash of Light
+1   Lull
+1   Minor Healing
+1   Spook the Dead
+1   Strike
+1   True North
+1   Yaulp
+5   Cure Blindness
+5   Cure Disease
+5   Furor
+5   Gate
+5   Holy Armor
+5   Light Healing
+5   Reckless Strength
+5   Stun
+5   Summon Drink
+5   Ward Undead
+9   Center
+9   Endure Fire
+9   Endure Poison
+9   Fear
+9   Hammer of Wrath
+9   Invigor
+9   Root
+9   Sense the Dead
+9   Soothe
+9   Summon Food
+9   Word of Pain
+14  Bind Affinity
+14  Cancel Magic
+14  Endure Cold
+14  Endure Disease
+14  Expulse Undead
+14  Halo of Light
+14 Healing
+14 Invisibility versus Undead
+14 Sense Summoned
+14 Smite
+14 Symbol of Transal
+19 Calm
+19 Daring
+19 Endure Magic
+19 Extinguish Fatigue
+19 Holy Might
+19 Spirit Armor
+19 Ward Summoned
+19 Word of Shadow
+19 Yaulp II
+24 Bravery
+24 Counteract Poison
+24 Dismiss Undead
+24 Greater Healing
+24 Hammer of Striking
+24 Inspire Fear
+24 Symbol of Ryltan 24
+24 Wave of Fear
+29 Abundant Drink
+29 Counteract Disease
+29 Divine Barrier
+29 Enstill
+29 Expulse Summoned
+29 Guard
+29 Imbue Amber
+29 Imbue Black Pearl
+29 Imbue Black Sapphire    29
+29 Imbue Diamond
+29 Imbue Emerald 29
+29 Imbue Opal 29
+29 Imbue Peridot
+29 Imbue Plains Pebble
+29 Imbue Rose Quartz 29
+29 Imbue Ruby
+29 Imbue Sapphire
+29 Imbue Topaz
+29 Panic the Dead 29
+29 Revive
+29 Word of Spirit
+29 Wrath
+29 Abundant Food
+29 Armor of Protection
+34 Atone
+34 Blinding Luminance
+34 Expel Undead
+34 Force
+34 Frenzied Strength
+34 Resist Fire
+34 Resist Poison
+34 Superior Healing
+34 Symbol of Pinzarn
+34 Tremor
+34 Valor
+34 Word of Health
+39 Armor of Faith
+39 Complete Healing
+39 Dismiss Summoned
+39 Invoke Fear
+39 Nullify Magic
+39 Pacify
+39 Resist Cold
+39 Resist Disease
+39 Resuscitate
+39 Turning of the Unnatural
+39 Word of Souls
+44 Banish Undead
+44 Celestial Healing
+44 Earthquake
+44 Hammer of Requital
+44 Resist Magic
+44 Resolution
+44 Retribution
+44 Symbol of Naltron
+44 Yaulp III
+49 Abolish Poison
+49 Expel Summoned
+49 Immobilize
+49 Resurrection
+49 Shield of Words
+49 Sound of Force
+49 Word Divine
+49 Word of Healing
+50 Improved Invis to Undead
+51 Death Pact
+51 Dread of Night
+51 Remedy
+51 Sunskin
+52 Heroic Bond
+52 Heroism
+52 Upheaval
+52 Word of Vigor
+53 Annul Magic
+53 Divine Light
+53 Yaulp IV
+54 Reckoning
+54 Symbol of Marzin
+54 Unswerving Hammer
+55 Exile Undead
+55 Fortitude
+55 Stun Command
+55 Wake of Tranquility
+56 Banish Summoned
+56 Mark of Karn
+56 Paralyzing Earth
+56 Reviviscence
+57 Aegis
+57 Bulwark of Faith
+57 Trepidation
+57 Word of Restoration
+58 Antidote
+58 Enforced Reverence
+58 Naltron's Mark
+59 Celestial Elixir
+59 The Unspoken Word
+60 Aegolism
+60 Banishment of Shadows
+60 Divine Intervention
+60 Word of Redemption

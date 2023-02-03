@@ -1,0 +1,53 @@
+51	Remedy
+39	Complete Healing
+53	Divine Light
+59	Celestial Elixir
+52	Heroism
+54	Symbol of Marzin
+1	Divine Aura
+29	Divine Barrier
+34	Resist Fire
+39	Resist Cold
+34	Resist Poison
+44	Resist Magic
+34	Armor of Protection
+39	Resist Disease
+60	Aegolism
+5	Gate
+39	Resuscitate
+49	Resurrection
+29	Word of Spirit
+54	Reckoning
+52	Heroic Bond
+58	Naltron's Mark
+49	Abolish Poison
+29	Counteract Disease
+39	Nullify Magic
+53	Annul Magic
+34	Blinding Luminance
+14	Bind Affinity
+49	Immobilize
+56	Paralyzing Earth
+56	Mark of Karn
+54	Unswerving Hammer of Faith
+1	Strike
+9	Word of Pain
+14	Invisibility versus Undead
+19	Word of Shadow
+29	Abundant Drink
+34	Abundant Food
+60	Word of Redemption
+60	Divine Intervention
+5	Stun
+1	Lull
+9	Soothe
+34	Atone
+58	Enforced Reverence
+5	Cure Blindness
+1	Flash of Light
+34	Superior Healing
+1	Minor Healing
+1	Courage
+5	Holy Armor
+51	Sunskin
+39	Invoke Fear

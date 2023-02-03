@@ -1,0 +1,82 @@
+51	Superior Healing
+49	Starfire
+44	Chloroplast
+52	Breath of Ro
+49	Engulfing Roots
+44	Drifting Death
+49	Shield of Thorns
+14	Levitate
+19	Superior Camouflage
+14	See Invisible
+29	Ensnare
+5	Harmony
+24	Spirit of Cheetah
+14	Spirit of Wolf
+52	Egress
+5	Gate
+44	Resist Disease
+44	Form of the Great Wolf
+24	Resist Fire
+49	Thorncoat
+34	Resist Cold
+49	Skin like Nature
+44	Resist Poison
+49	Resist Magic
+51	Legacy of Spike
+9	Treeform
+49	Pack Chloroplast
+29	Counteract Poison
+51	Upheaval
+24	Scale of Wolf
+14	Bind Affinity
+44	Nullify Magic
+44	Storm Strength
+49	Ice
+49	Fire
+39	Pack Spirit
+49	Lightning Blast
+39	Avalanche
+19	Ring of Surefall Glade
+5	Whirling Wind
+29	Circle of Surefall Glade
+14	Summon Drink
+14	Summon Food
+29	Ring of Misty
+39	Circle of Misty
+19	Ring of Commons
+29	Circle of Commons
+24	Ring of Feerrott
+34	Circle of Feerrott
+24	Ring of Lavastorm
+34	Circle of Lavastorm
+19	Ring of Butcher
+29	Circle of Butcher
+24	Ring of Steamfont
+34	Circle of Steamfont
+19	Ring of Karana
+29	Circle of Karana
+19	Ring of Toxxulia
+29	Circle of Toxxulia
+24	Ring of Ro
+34	Circle of Ro
+44	Circle of Cobalt Scar
+39	Circle of Great Divide
+34	Circle of the Combines
+44	Circle of Wakening Lands
+34	Ring of Iceclad
+34	Circle of Iceclad
+34	Succor: Butcher
+39	Succor: Ro
+29	Succor: East
+49	Succor: North
+44	Succor: Lavastorm
+39	Wind of the North
+39	Wind of the South
+9	Ignite
+1	Dance of the Fireflies
+1	Snare
+1	Minor Healing
+1	Skin like Wood
+9	Light Healing
+19	Healing
+5	Camouflage

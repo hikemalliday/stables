@@ -1,0 +1,15 @@
+4	Fire Flux
+24	Flame Flux
+16	See Invisible
+8	Invisibility
+1	Burst of Flame
+4	Gate
+12	Bind Affinity
+55	Call of the Hero
+29	Burnout II
+8	Eye of Zomm
+29	Greater Summoning: Fire
+54	Vocarate: Water
+1	Minor Shielding
+1	Summon Drink
+1	Summon Food

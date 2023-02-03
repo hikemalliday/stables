@@ -1,0 +1,46 @@
+-The file copier might be breaking and ending if a file does not exist
+-Query seems to double print items on individual character inventory query
+-Fix modal labels
+-Fix sorting for any and all tables
+-FIX EDIT BUTTON
+
+-Remove first two table lines in 'inventoryObject' arrays (when you open up an individual chars inventory, the first two rows are redundant)
+-Combine BAT files
+
+--MISSING SPELL BUGS--
+-Create outputspellbook for Macros
+-Create outputspellbook for Rickjames
+-Missing Spells button changes to 'Back', when 'Back' is clicked, rebuild the modal as if it was just opened
+
+--Add 'modal Close' to new character 'submit' button
+--need to make a giant object with: {character:[[],[],[],[]], character: [[],[],[],[]]} (??? what is this ???)
+
+--**ADD BAT (CHILD_PROCESS) FOR RUNNING BAT INSIDE PROGRAM**--
+  -the idea is to have a button to click to copy over a new UI for a character
+  -also a button to copy ALL characters
+  -UIs will be copied based on class
+  -also make buttons to copy output inventory files, output spellbook files. For ALL characters, as well as individual
+  -individual buttons will be inside the 'inventory' modals
+  -'ALL Characters' buttons will be on the main interface
+
+--**LOOK INTO AN ALL IN ONE INSTALLER / UI SO THAT THE PROGRAM IS SHAREABLE**--
+  -all in one installer 
+  -possibly in the future some sort of cloud inventory upload program. 
+  -users could register, and log in. Then, anyone in the guild can upload an 'output inventory' file
+  -this allows the guild to perform item queries
+  -could create a discord bot to store output inventory files, allowing a guild to perform gueries in discord
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+

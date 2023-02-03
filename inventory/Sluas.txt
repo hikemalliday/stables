@@ -1,0 +1,140 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Jasper Gold Earring	14630	1	5
+Head	Othmir Fur Cap	24989	1	5
+Face	Sky Watcher's Monocle	31328	1	5
+Ear	Jasper Gold Earring	14630	1	5
+Neck	Idol of Woven Grass	28075	1	5
+Shoulders	Weight of the Gods	2924	1	5
+Arms	Ethereal Mist Vambraces	4883	1	5
+Back	Lodizal Shell Shield	22816	1	5
+Wrist	Supple Scale Armband	1618	1	5
+Wrist	Bracer of the Hidden	11911	1	5
+Range	Othmir Prexus Totem	28514	1	5
+Hands	Coldain Skin Gloves	25026	1	5
+Primary	Water Sprinkler of Nem Ankh	5532	1	5
+Secondary	Book of Obulus	14745	1	5
+Fingers	Platinum Jasper Ring	14631	1	5
+Fingers	Platinum Jasper Ring	14631	1	5
+Chest	Withered Leather Tunic	2285	1	5
+Legs	Gatorscale Leggings	2461	1	5
+Feet	Coldain Skin Boots	25027	1	5
+Waist	Belt of the Cenobite	11957	1	5
+Ammo	Empty	0	0	0
+General1	Lexicon	17903	1	10
+General1-Slot1	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot2	Shrine Key	28602	1	5
+General1-Slot3	Trakanon Idol	1810	1	5
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Staff of Elemental Mastery: Water	11569	1	5
+General1-Slot6	Fusible Coral Ore	2447	1	5
+General1-Slot7	Blue Crystal Staff	14337	1	5
+General1-Slot8	Kedge Backbone	20524	1	5
+General1-Slot9	Peridot	10028	9	5
+General1-Slot10	Peridot	10028	20	5
+General2	Lexicon	17903	1	10
+General2-Slot1	Rod of Malisement	10374	1	5
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Muffin	13014	8	5
+General2-Slot4	Bladder of Otter Milk	19150	3	5
+General2-Slot5	Muffin	13014	20	5
+General2-Slot6	Bladder of Otter Milk	19150	20	5
+General2-Slot7	Muffin	13014	20	5
+General2-Slot8	Bladder of Otter Milk	19150	20	5
+General2-Slot9	Muffin	13014	20	5
+General2-Slot10	Bladder of Otter Milk	19150	20	5
+General3	Lexicon	17903	1	10
+General3-Slot1	10 Dose Blood of the Wolf	14534	1	5
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Cloudy Potion	14514	1	5
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Cloudy Potion	14514	1	5
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Lexicon	17903	1	10
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Empty	0	0	0
+General4-Slot9	Empty	0	0	0
+General4-Slot10	Empty	0	0	0
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Golden Efreeti Bracers	4344	1	5
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Worker Sledgemallet	12863	1	5
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Empty	0	0	0
+General5-Slot10	Empty	0	0	0
+General6	Journeyman's Boots	2300	1	5
+General7	Spyglass	16868	1	5
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Coldain Tanners Kit	17863	1	8
+Bank1-Slot1	Golden Efreeti Gauntlets	4345	1	5
+Bank1-Slot2	Golden Efreeti Greaves	4346	1	5
+Bank1-Slot3	Prismatic Shield	9405	1	5
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Blade of Abrogation	5430	1	5
+Bank1-Slot6	Crest of the Unicorn	24869	1	5
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Coldain Tanners Kit	17863	1	8
+Bank2-Slot1	Flayed Skin Cap	10802	1	5
+Bank2-Slot2	Flayed Skin Tunic	10803	1	5
+Bank2-Slot3	Flayed Skin Leggings	10806	1	5
+Bank2-Slot4	Flayed Skin Sleeves	10804	1	5
+Bank2-Slot5	Flayed Skin Bracers	10805	1	5
+Bank2-Slot6	Flayed Skin Boots	10807	1	5
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Large Sewing Kit	17880	1	8
+Bank3-Slot1	Starmetal Ore	1869	1	5
+Bank3-Slot2	Starmetal Ore	1869	1	5
+Bank3-Slot3	Starmetal Ore	1869	1	5
+Bank3-Slot4	Starmetal Ore	1869	1	5
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Coldain Tanners Kit	17863	1	8
+Bank4-Slot1	Spell: Gift of Xev	19347	1	5
+Bank4-Slot2	Spell: Splurt	19294	1	5
+Bank4-Slot3	Spell: Dementia	19384	1	5
+Bank4-Slot4	Spell: Color Slant	19378	1	5
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Spell: Cannibalize IV	19473	1	5
+Bank4-Slot8	Spell: Heroic Bond	19224	1	5
+Bank5	Coldain Tanners Kit	17863	1	8
+Bank5-Slot1	Spell: Naltron's Mark	19435	1	5
+Bank5-Slot2	Spell: Thrall of Bones	19299	1	5
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Spell: Bonds of Tunare	19419	1	5
+Bank5-Slot5	Spell: Heroic Bond	19224	1	5
+Bank5-Slot6	Spell: Trepidation	19220	1	5
+Bank5-Slot7	Spell: Form of the Howler	19244	1	5
+Bank5-Slot8	Spell: Acumen	19278	1	5
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

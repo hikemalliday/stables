@@ -1,0 +1,177 @@
+1   Burst of Flame
+1   Cure Disease
+1   Dexterous Aura
+1   Endure Cold
+1   Flash of Light
+1   Inner Fire
+1   Minor Healing
+1   Strengthen
+1   True North
+5   Cure Poison
+5   Drowsy
+5   Endure Fire
+5   Feet like Cat
+5   Fleeting Fury
+5   Frost Rift
+5   Gate
+5   Scale Skin
+5   Sicken
+5   Spirit Pouch
+5   Summon Drink
+9   Cure Blindness
+9   Endure Disease
+9   Light Healing
+9   Sense Animals
+9   Serpent Sight
+9   Spirit of Bear
+9   Spirit of Wolf
+9   Spirit Sight
+9   Summon Food
+9   Tainted Breath
+14  Bind Affinity
+14  Burst of Strength
+14  Disempower
+14  Endure Poison
+14  Enduring Breath
+14  Invisibility versus Animals
+14  Levitate
+14  Root
+14  Spirit of Snake
+14  Spirit Strike
+14  Turtle Skin
+14  Walking Sleep
+19  Affliction
+19  Cancel Magic
+19  Endure Magic
+19  Frenzy
+19  Healing
+19  Infectious Cloud
+19  Insidious Fever
+19  Malaise
+19  Shrink
+19  Spirit of Cat
+19  Spirit Strength
+19  Vision
+24  Cannibalize
+24  Counteract Disease
+24  Creeping Vision
+24  Envenomed Breath
+24  Frost Strike
+24  Invigor
+24  Poison Storm
+24  Protect
+24  Regeneration
+24  Resist Cold
+24  Spirit of Cheetah
+24  Spirit of Monkey
+24  Spirit of Ox
+24  Scale of Wolf
+29  Alluring Aura
+29  Befriend Animal
+29  Counteract Poison
+29  Greater Healing
+29  Imbue Amber
+29  Imbue Ivory
+29  Imbue Jade
+29  Imbue Sapphire
+29  Invisibility
+29  Listless Power
+29  Quickness
+29  Raging Strength
+29  Resist Fire
+29  Rising Dexterity
+29  Tagar's Insects
+29  Ultravision
+34  Charm Animals
+34  Companion Spirit
+34  Enstill
+34  Fury
+34  Health
+34  Malaisement
+34  Nimble
+34  Resist Disease
+34  Scourge	Disease
+34  Shifting Shield
+34  Shock of the Tainted
+34  Talisman of Tnarg
+34  Winter's Roar
+39  Assiduous Vision
+39  Blinding Luminance
+39  Cannibalize II
+39  Chloroplast
+39  Deftness
+39  Extinguish Fatigue
+39  Furious Strength
+39  Gale of Poison
+39  Glamour
+39  Insidious Malady
+39  Resist Poison
+39  Togor's Insects
+39  Tumultuous Strength
+39  Venom of the Snake
+39  Vigilant Spirit
+44  Agility
+44  Alacrity
+44  Blast of Poison
+44  Blizzard 44
+44  Guardian
+44  Guardian Spirit
+44  Incapacitate
+44  Nullify Magic
+44  Resist Magic
+44  Stamina
+44  Summon Companion
+44  Talisman of Altuna
+49  Abolish Disease
+49  Charisma
+49  Dexterity
+49  Envenomed Bolt
+49  Frenzied Spirit
+49  Malosi
+49  Plague
+49  Rage
+49  Strength
+50  Spirit Quickening
+51  Superior Healing
+51  Immobilize
+51  Talisman of Jasinth
+51  Turgur's Insects
+52  Insidious Decay
+52  Regrowth
+52  Spirit of Scale
+53  Cripple
+53  Deliriously Nimble
+53  Superior Healing
+53  Talisman of Shadoo
+54  Cannibalize III
+54  Ice Strike
+54  Riotous Health
+54  Shroud of the Spirits
+55  Annul Magic
+55  Chloroblast
+55  Form of the Great Bear
+55  Spirit of the Howler
+55  Talisman of Kragg
+55  Torrent of Poison
+56  Acumen
+56  Bane of Nife
+56  Celerity
+56  Paralyzing Earth
+57  Malosini
+57  Maniacal Strength
+57  Talisman of the Brute
+57  Talisman of the Cat
+58  Cannibalize IV
+58  Mortal Deftness
+58  Talisman of the Rhino
+58  Talisman of the Serpent
+58  Tigir's Insects
+59  Pox of Bertoxxulous
+59  Talisman of the Raptor
+59  Unfailing Reverence
+59  Voice of the Berserker
+60  Avatar
+60  Focus of Spirit
+60  Malo
+60  Primal Avatar
+60  Torpor

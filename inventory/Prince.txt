@@ -1,0 +1,186 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Opalline Earring	10407	1	5
+Head	Loam Encrusted Cap	1641	1	5
+Face	Velium Star Ruby Veil	30341	1	5
+Ear	Opalline Earring	10407	1	5
+Neck	Ionat's Talisman	27247	1	5
+Shoulders	Loam Encrusted Amice	1645	1	5
+Arms	Gatorscale Sleeves	2458	1	5
+Back	Mystic Cloak	1057	1	5
+Wrist	Golden Cat Eye Bracelet	14618	1	5
+Wrist	Golden Cat Eye Bracelet	14618	1	5
+Range	Sarnak Ceremonial Dagger	11906	1	5
+Hands	Incandescent Gloves	2351	1	5
+Primary	Rod of Insidious Glamour	6329	1	5
+Secondary	A Crude Stein	13355	1	5
+Fingers	Overseer`s Signet	5778	1	5
+Fingers	Overseer`s Signet	5778	1	5
+Chest	Noble's Robes	1891	1	5
+Legs	Drake-hide Leggings	2343	1	5
+Feet	Loam Encrusted Lined Shoes	1652	1	5
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Canteen of Slush Water	30035	1	5
+General1-Slot3	Frozen Sea Biscuits	30036	20	5
+General1-Slot4	Canteen of Slush Water	30035	20	5
+General1-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot6	Key to Charasis	2667	1	5
+General1-Slot7	Black Sapphire	10036	1	5
+General1-Slot8	Tiny Dagger	13080	20	5
+General1-Slot9	Bat Wing	13068	6	5
+General1-Slot10	Bat Wing	13068	20	5
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Jasper	10020	1	5
+General2-Slot2	Fire Opal	10031	1	5
+General2-Slot3	Sapphire Necklace	10050	1	5
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Spell: Defoliation	19296	1	5
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Spell: Theft of Thought	19374	1	5
+General2-Slot8	Spell: Defoliation	19296	1	5
+General2-Slot9	Spell: Quiver of Marr	19354	1	5
+General2-Slot10	Spell: Pillar of Lightning	19326	1	5
+General3	Deluxe Toolbox	17877	1	10
+General3-Slot1	Tome of the Eternal	14719	1	5
+General3-Slot2	Trakanon Idol	1810	1	5
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Torch	13002	1	5
+General3-Slot5	Torch	13002	1	5
+General3-Slot6	Torch	13002	1	5
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Journeyman's Boots	2300	1	5
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Ornately Runed Shell Necklace	28515	1	5
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Worker Sledgemallet	12863	1	5
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Empty	0	0	0
+General5-Slot10	Empty	0	0	0
+General6	Deluxe Toolbox	17877	1	10
+General6-Slot1	Cat Eye Velium Necklace	30309	1	5
+General6-Slot2	10 Dose Ethira's Poison Antidote	14542	1	5
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General6-Slot9	Empty	0	0	0
+General6-Slot10	Empty	0	0	0
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Fire Emerald Ring	10049	1	5
+General7-Slot2	Emerald Ring	10045	1	5
+General7-Slot3	Fire Emerald Ring	10049	1	5
+General7-Slot4	Fire Emerald Ring	10049	1	5
+General7-Slot5	Sludged Girdle	4312	1	5
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Empty	0	0	0
+General7-Slot9	Empty	0	0	0
+General7-Slot10	Empty	0	0	0
+General8	10 Dose Blood of the Wolf	14534	1	5
+Held	Empty	0	0	0
+Bank1	Coldain Tanners Kit	17863	1	8
+Bank1-Slot1	Nilitim's Grimoire Pg. 300	11726	1	5
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Spell: Dementia	19384	1	5
+Bank1-Slot4	Torch	13002	1	5
+Bank1-Slot5	Spell: Shiftless Deeds	15186	1	5
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Spell: Tepid Deeds	15185	1	5
+Bank1-Slot8	Spell: Tepid Deeds	15185	1	5
+Bank2	Tome of Endless Enchantments	17500	1	10
+Bank2-Slot1	Burynai Legion Gi	1193	1	5
+Bank2-Slot2	RukGus' Sticker	7372	1	5
+Bank2-Slot3	Black Tome with Silver Runes	13400	1	5
+Bank2-Slot4	Black Tome with Silver Runes	13400	1	5
+Bank2-Slot5	Salil's Writ Pg. 282	11716	1	5
+Bank2-Slot6	Salil's Writ Pg. 174	11715	1	5
+Bank2-Slot7	Part of Tasarin's Grimoire Pg. 390	16080	3	5
+Bank2-Slot8	Part of Tasarin's Grimoire Pg. 390	16081	1	5
+Bank2-Slot9	Salil's Writ Pg. 288	11719	1	5
+Bank2-Slot10	Part of Tasarin's Grimoire Pg. 375	16079	2	5
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Greyish Bone Chips	12943	1	5
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Spell: Color Skew	15178	1	5
+Bank3-Slot5	Withered Staff	6682	1	5
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Nilitim's Grimoire Pg. 300	11726	4	5
+Bank3-Slot8	Spell: Shiftless Deeds	15186	1	5
+Bank4	Coldain Tanners Kit	17863	1	8
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Spell: Convergence	19423	1	5
+Bank4-Slot3	Words of the Spectre	11856	1	5
+Bank4-Slot4	Mountain Death Belt	1194	1	5
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Sharkbone Warhammer	6408	1	5
+Bank4-Slot7	Torch	13002	1	5
+Bank4-Slot8	Band of Eternal Flame	14738	1	5
+Bank5	Backpack	17005	1	8
+Bank5-Slot1	Salil's Writ Pg. 64	11707	1	5
+Bank5-Slot2	Part of Tasarin's Grimoire Pg. 24	16071	1	5
+Bank5-Slot3	Salil's Writ Pg. 60	11882	7	5
+Bank5-Slot4	Spell: Wake of Tranquility	19215	1	5
+Bank5-Slot5	Nilitim's Grimoire Pg. 352	11729	3	5
+Bank5-Slot6	Part of Tasarin's Grimoire Pg. 23	16069	2	5
+Bank5-Slot7	Nilitim's Grimoire Pg. 35	11722	11	5
+Bank5-Slot8	Empty	0	0	0
+Bank6	Backpack	17005	1	8
+Bank6-Slot1	Nilitim's Grimoire Pg. 449	11736	1	5
+Bank6-Slot2	Nilitim's Grimoire Pg. 416	11735	1	5
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Bat Wing	13068	20	5
+Bank6-Slot5	Purification Tablet	12630	1	5
+Bank6-Slot6	Crystallized Pumice	14524	1	5
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Drachnid Thyxl	11981	1	5
+Bank7	Deluxe Toolbox	17877	1	10
+Bank7-Slot1	Nilitim's Grimoire Pg. 351	11728	2	5
+Bank7-Slot2	Words of Possession	11815	1	5
+Bank7-Slot3	Siren Scale Robe	1607	1	5
+Bank7-Slot4	Ivory Pendant	20758	1	5
+Bank7-Slot5	Electrum Star Ruby Ring	14681	1	5
+Bank7-Slot6	Electrum Star Ruby Ring	14681	1	5
+Bank7-Slot7	Loam Encrusted Bracelet	1649	1	5
+Bank7-Slot8	Elliptical Veil	1262	1	5
+Bank7-Slot9	Sarnak Arcane Fetish	14753	1	5
+Bank7-Slot10	Empty	0	0	0
+Bank8	Shralok Pack	17401	1	8
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0

@@ -1,0 +1,164 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Yunnb's Earring	10912	1	5
+Head	Circlet of the Falinkan	1867	1	5
+Face	Eyepatch of Plunder	30008	1	5
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Neck	Ayillish's Talisman	27249	1	5
+Shoulders	Strength of the Elements	24070	1	5
+Arms	Shiny Metallic Sleeves	31342	1	5
+Back	Hierophant's Cloak	1622	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Hate Crystal	2188	1	5
+Hands	Ancient Shissar Gauntlet	4582	1	5
+Primary	Staff of the Four	14341	1	5
+Secondary	Orb of the Infinite Void	25098	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Chest	Solist's Robe of Invocation	24627	1	5
+Legs	Icicle Pantaloons	31159	1	5
+Feet	Coldain Skin Boots	25027	1	5
+Waist	Loam Encrusted Sash	1647	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Lizard Blood Potion	1806	1	5
+General1-Slot2	Lizard Blood Potion	1806	1	5
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Pegasus Feather Cloak	2463	1	5
+General1-Slot5	Jasper	10020	13	5
+General1-Slot6	Jasper	10020	20	5
+General1-Slot7	Bat Wing	13068	18	5
+General1-Slot8	Bat Wing	13068	20	5
+General1-Slot9	Scout Tools	29683	1	5
+General1-Slot10	Ring of the Ancients	12268	1	5
+General2	Eye of Innoruuk	20656	1	5
+General3	Golem Metal Wand	14313	1	5
+General4	Acumen Mask	2366	1	5
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Small Portal Fragments	2093	18	5
+General5-Slot2	Small Portal Fragments	2093	20	5
+General5-Slot3	Small Portal Fragments	2093	20	5
+General5-Slot4	Bottle of Milk	13087	18	5
+General5-Slot5	Muffin	13014	19	5
+General5-Slot6	Fuligan Soulstone of Innoruuk	10092	1	5
+General5-Slot7	Trakanon Idol	1810	1	5
+General5-Slot8	Tooth of the Cobalt Scar	31602	1	5
+General5-Slot9	Key of Veeshan	1817	1	5
+General5-Slot10	Shrine Key	28602	1	5
+General6	Deluxe Toolbox	17877	1	10
+General6-Slot1	Empty	0	0	0
+General6-Slot2	10 Dose Kithar's Disease Treatment	14543	1	5
+General6-Slot3	10 Dose Ethira's Poison Antidote	14542	1	5
+General6-Slot4	10 Dose Ethira's Poison Antidote	14542	1	5
+General6-Slot5	10 Dose Potion of Unlife Awareness	14545	1	5
+General6-Slot6	Staff of Temperate Flux	6342	1	5
+General6-Slot7	Ancient Wurm Hide Robe	2840	1	5
+General6-Slot8	Journeyman's Boots	2300	1	5
+General6-Slot9	Worker Sledgemallet	12863	1	5
+General6-Slot10	Crystallized Pumice	14524	1	5
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Blue Flower of Functionality	6814	1	5
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Green Flower of Functionality	6816	1	5
+General7-Slot5	Empty	0	0	0
+General7-Slot6	White Flower of Functionality	6815	1	5
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Black Flower of Functionality	6817	1	5
+General7-Slot9	Empty	0	0	0
+General7-Slot10	Larrikan's Mask	2736	1	5
+General8	Deluxe Toolbox	17877	1	10
+General8-Slot1	Empty	0	0	0
+General8-Slot2	Golem Metal Wand	14313	1	5
+General8-Slot3	Wand of Conflagration	12500	1	5
+General8-Slot4	Golem Metal Wand	14313	1	5
+General8-Slot5	Crystallized Pumice	14524	1	5
+General8-Slot6	Crystallized Pumice	14524	1	5
+General8-Slot7	Crystallized Pumice	14524	1	5
+General8-Slot8	Empty	0	0	0
+General8-Slot9	Crystallized Pumice	14524	1	5
+General8-Slot10	Crystallized Pumice	14524	1	5
+Held	Empty	0	0	0
+Bank1	Medicine Bag	17901	1	8
+Bank1-Slot1	Jasper	10020	12	5
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Ball of Golem Clay	14315	1	5
+Bank1-Slot4	Ball of Golem Clay	14315	1	5
+Bank1-Slot5	Ball of Golem Clay	14315	1	5
+Bank1-Slot6	Cloudy Potion	14514	1	5
+Bank1-Slot7	Cloudy Potion	14514	1	5
+Bank1-Slot8	Cloudy Potion	14514	1	5
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Soul Leech, Dark Sword of Blood	11609	1	5
+Bank2-Slot2	Sceptre of Ixiblat Fer	28017	1	5
+Bank2-Slot3	Nilitim's Grimoire Pg. 36	11723	1	5
+Bank2-Slot4	Nilitim's Grimoire Pg. 35	11722	1	5
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Shissar Elementalist's Staff	6667	1	5
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Empty	0	0	0
+Bank2-Slot10	Empty	0	0	0
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Bone Chips	13073	15	5
+Bank3-Slot2	Bone Chips	13073	20	5
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Backpack	17005	1	8
+Bank4-Slot1	Bloodblack Wand	10551	1	5
+Bank4-Slot2	Silver Wand	6338	1	5
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Nightmare Hide	2333	1	5
+Bank4-Slot5	Skinning Rock	30062	1	5
+Bank4-Slot6	Skinning Rock	30062	1	5
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Dirk of the Dain	1465	1	5
+Bank5	Lexicon	17903	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	Empty	0	0	0
+Bank5-Slot10	Empty	0	0	0
+Bank6	Deck of Spontaneous Generation	17054	1	4
+Bank6-Slot1	Rune of Clay	10541	1	5
+Bank6-Slot2	Rune of Clay	10542	1	5
+Bank6-Slot3	Rune of Clay	10540	1	5
+Bank6-Slot4	Rune of Clay	10539	1	5
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Head of Scarbrow	30141	1	5
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Block of Permafrost	20665	1	5
+Bank8-Slot2	Cryosilk Lined Shoes	1222	1	5
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

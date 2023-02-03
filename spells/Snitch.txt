@@ -1,0 +1,60 @@
+58	Cannibalize IV
+24	Spirit of Cheetah
+51	Turgur's Insects
+60	Torpor
+56	Paralyzing Earth
+55	Chloroblast
+9	Spirit of Wolf
+60	Malo
+60	Focus of Spirit
+54	Riotous Health
+52	Regrowth
+59	Pox of Bertoxxulous
+19	Shrink
+55	Spirit of the Howler
+56	Celerity
+5	Gate
+49	Envenomed Bolt
+49	Plague
+52	Insidious Decay
+9	Tainted Breath
+9	Cure Blindness
+51	Superior Healing
+14	Bind Affinity
+51	Immobilize
+55	Form of the Great Bear
+57	Malosini
+53	Cripple
+44	Incapacitate
+39	Blinding Luminance
+1	Burst of Flame
+56	Acumen
+9	Spirit Sight
+49	Malosi
+1	True North
+58	Talisman of the Serpent
+52	Spirit of Scale
+39	Assiduous Vision
+59	Unfailing Reverence
+44	Summon Companion
+29	Invisibility
+44	Talisman of Altuna
+29	Counteract Poison
+1	Endure Cold
+24	Envenomed Breath
+1	Minor Healing
+44	Nullify Magic
+49	Abolish Disease
+54	Shroud of the Spirits
+53	Talisman of Shadoo
+60	Avatar
+55	Talisman of Kragg
+24	Scale of Wolf
+34	Resist Disease
+29	Resist Fire
+39	Resist Poison
+24	Resist Cold
+14	Levitate
+44	Resist Magic
+54	Cannibalize III
+44	Alacrity

@@ -1,0 +1,142 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of Essence	14714	1	5
+Head	Insidious Halo	1246	1	5
+Face	Xialn Mask	29616	1	5
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Neck	Draazak's Talisman	27251	1	5
+Shoulders	Neriad Shawl	28508	1	5
+Arms	Insidious Sleeves	1248	1	5
+Back	Hooded Black Cloak	1409	1	5
+Wrist	Bracelet of Quiescence	12806	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Spinning Orb of Confusion	31352	1	5
+Hands	Coldain Skin Gloves	25026	1	5
+Primary	Staff of the Serpent	2656	1	5
+Secondary	Crystal Webshield	25607	1	5
+Fingers	Platinum Diamond Wedding Ring	14707	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Chest	Dazzling Robe	25427	1	5
+Legs	Dazzling Trousers	25431	1	5
+Feet	Dazzling Slippers	25432	1	5
+Waist	Cryosilk Sash	1217	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Ration	13007	18	5
+General1-Slot2	Water Flask	13006	18	5
+General1-Slot3	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot4	Shrine Key	28602	1	5
+General1-Slot5	Trakanon Idol	1810	1	5
+General1-Slot6	Tiny Dagger	13080	14	5
+General1-Slot7	Tiny Dagger	13080	20	5
+General1-Slot8	Tiny Dagger	13080	20	5
+General1-Slot9	Empty	0	0	0
+General1-Slot10	Empty	0	0	0
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Peridot	10028	20	5
+General2-Slot2	Peridot	10028	20	5
+General2-Slot3	Peridot	10028	2	5
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Staff of Undead Legions	11662	1	5
+General2-Slot9	Torch	13002	1	5
+General2-Slot10	Torch	13002	1	5
+General3	Large Soiled Bag	17404	1	10
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Pegasus Feather Cloak	2463	1	5
+General5	Box of Nil Space	17082	1	10
+General5-Slot1	Black Flower of Functionality	6817	1	5
+General5-Slot2	Worker Sledgemallet	12863	1	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Empty	0	0	0
+General5-Slot10	Empty	0	0	0
+General6	Darkwood Trunk	17703	1	10
+General6-Slot1	10 Dose Ethira's Poison Antidote	14542	1	5
+General6-Slot2	10 Dose Kithar's Disease Treatment	14543	1	5
+General6-Slot3	Wand of Allure	12507	1	5
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Braided Beard of the Coldain	30108	1	5
+General6-Slot8	Storm Giant Toes	29124	1	5
+General6-Slot9	Royal Kromrif blood	1858	1	5
+General6-Slot10	Empty	0	0	0
+General7	Light Burlap Sack	17353	1	8
+General7-Slot1	Engraved Skull Amulet	25047	1	5
+General7-Slot2	Vambraces of Avoidance	25048	1	5
+General7-Slot3	Pearl	10024	5	5
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Empty	0	0	0
+General8	Journeyman's Boots	2300	1	5
+Held	Empty	0	0	0
+Bank1	Deluxe Toolbox	17877	1	10
+Bank1-Slot1	Fourth part of an Iceclad Map	30073	1	5
+Bank1-Slot2	Insidious Slippers	1252	1	5
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Deadwood Stave	6623	1	5
+Bank2-Slot2	Deadwood Stave	6623	1	5
+Bank2-Slot3	Deadwood Stave	6623	1	5
+Bank2-Slot4	Deadwood Stave	6623	1	5
+Bank2-Slot5	Deadwood Stave	6623	1	5
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Empty	0	0	0
+Bank2-Slot10	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Deluxe Toolbox	17877	1	10
+Bank5-Slot1	Torch	13002	1	5
+Bank5-Slot2	Torch	13002	1	5
+Bank5-Slot3	Torch	13002	1	5
+Bank5-Slot4	Torch	13002	1	5
+Bank5-Slot5	Torch	13002	1	5
+Bank5-Slot6	Torch	13002	1	5
+Bank5-Slot7	Torch	13002	1	5
+Bank5-Slot8	Torch	13002	1	5
+Bank5-Slot9	Torch	13002	1	5
+Bank5-Slot10	Torch	13002	1	5
+Bank6	Deck of Spontaneous Generation	17054	1	4
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

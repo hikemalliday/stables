@@ -1,0 +1,59 @@
+1	Inner Fire
+1	Burst of Flame
+1	Minor Healing
+9	Light Healing
+9	Spirit of Wolf
+5	Gate
+5	Drowsy
+5	Frost Rift
+5	Cure Poison
+9	Tainted Breath
+14	Root
+5	Summon Drink
+9	Summon Food
+14	Spirit Strike
+1	Flash of Light
+34	Companion Spirit
+14	Walking Sleep
+19	Malise
+14	Bind Affinity
+14	Levitate
+19	Affliction
+19	Infectious Cloud
+19	Healing
+19	Shrink
+19	Cancel Magic
+24	Envenomed Breath
+24	Regeneration
+29	Tagar's Insects
+24	Cannibalize
+19	Endure Magic
+24	Poison Storm
+29	Quickness
+29	Greater Healing
+34	Malisement
+29	Listless Power
+29	Invisibility
+34	Scourge
+34	Nimble
+34	Enstill
+34	Winter's Roar
+34	Talisman of Tnarg
+39	Chloroplast
+9	Serpent Sight
+39	Venom of the Snake
+39	Vigilant Spirit
+39	Furious Strength
+29	Ultravision
+39	Glamour
+44	Alacrity
+44	Resist Magic
+44	Blizzard Blast
+49	Malosi
+49	Envenomed Bolt
+49	Strength
+49	Frenzied Spirit
+49	Plague
+14	Enduring Breath
+51	Superior Healing
+39	Assiduous Vision

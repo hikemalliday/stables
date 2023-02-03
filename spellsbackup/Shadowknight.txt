@@ -1,0 +1,70 @@
+9   Disease Cloud
+9   Invisibility versus Undead
+9   Leering Corpse
+9   Lifetap	Lifetap
+9   Locate Corpse
+9   Sense the Dead
+9   Siphon Strength
+15  Bone Walk
+15  Clinging Darkness
+15  Endure Cold	Buff
+15  Fear
+15  Lifespike
+15  Numb the Dead
+15  Shadow Step
+22  Convoke Shadow
+22  Dark Empathy
+22  Deadeye
+22  Engulfing Darkness
+22  Grim Aura
+22  Spook the Dead
+22  Vampiric Embrace
+22  Ward Undead	
+29  Strengthen Death
+30  Endure Disease
+30  Feign Death	Beneficial
+30  Gather Shadows
+30  Heat Blood
+30  Lifedraw
+30  Restless Bones
+30  Wave of Enfeeblement
+34  Shieldskin
+39  Animate Dead
+39  Cancel Magic
+39  Expulse Undead
+39  Heart Flutter
+39  Resist Cold
+39  Shadow Vortex
+39  Shroud of Hate
+49  Breath of the Dead
+49  Dismiss Undead
+49  Dooming Darkness
+49  Invoke Fear	Fear
+49  Life Leech
+49  Shadow Sight
+49  Summon Dead
+49  Word of Spirit
+50  Shroud of Pain
+51  Siphon Life	Lifetap
+51  Summon Corpse
+52  Malignant Dead
+52  Summon Companion
+52  Rest the Dead
+53  Boil Blood
+54  Banshee Aura
+54  Panic the Dead
+55  Bobbing Corpse
+55  Expel Undead
+55  Shroud of Death
+55  Shroud of Undeath
+55  Spirit Tap
+56  Steelskin
+57  Drain Spirit
+57  Vampiric Curse
+58  Cackling Bones
+58  Nullify Magic
+59  Cascading Darkness
+59  Diamondskin	Beneficial
+60  Asystole
+60  Drain Soul
+60  Death Peace

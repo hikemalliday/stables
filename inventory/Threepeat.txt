@@ -1,0 +1,166 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Blue Diamond Electrum Earring	30365	1	5
+Head	Circlet of the Falinkan	1867	1	5
+Face	Diamond Electrum Mask	14705	1	5
+Ear	Mithril Earring	10041	1	5
+Neck	Ayillish's Talisman	27249	1	5
+Shoulders	Wurm Scale Coat	11976	1	5
+Arms	Prestidigitator's Sleeves	31170	1	5
+Back	Shroud of Veeshan	1628	1	5
+Wrist	Empty	0	0	0
+Wrist	Empty	0	0	0
+Range	Kromzek Surveyor Scope	30221	1	5
+Hands	Apothic Gloves	1243	1	5
+Primary	Orb of Mastery	28034	1	5
+Secondary	Left Eye of Xygoz	24629	1	5
+Fingers	Platinum Diamond Wedding Ring	14707	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Chest	Robe of the Azure Sky	10845	1	5
+Legs	Silversilk Leggings	1366	1	5
+Feet	Apothic Boots	1245	1	5
+Waist	Grotesque Girdle	1556	1	5
+Ammo	Empty	0	0	0
+General1	Lexicon	17903	1	10
+General1-Slot1	Part of Tasarin's Grimoire Pg. 390	16081	2	5
+General1-Slot2	Sarnak Travel Canteen	5829	1	5
+General1-Slot3	Green Goblin Skin	22135	6	5
+General1-Slot4	Mt. Death Mineral Salts	16972	20	5
+General1-Slot5	A Red Crown	24555	1	5
+General1-Slot6	A Blue Knight	24560	1	5
+General1-Slot7	Chokidai Jerky	5827	18	5
+General1-Slot8	Fine Steel Rapier	7352	1	5
+General1-Slot9	Chokidai Jerky	5827	20	5
+General1-Slot10	Chokidai Jerky	5827	20	5
+General2	Lexicon	17903	1	10
+General2-Slot1	Jade Chokidai Prod	7256	1	5
+General2-Slot2	Pegasus Feather Cloak	2463	1	5
+General2-Slot3	Part of Tasarin's Grimoire Pg. 312	16077	1	5
+General2-Slot4	Ivory	22504	1	5
+General2-Slot5	Sarnak Summoners Staff	24642	1	5
+General2-Slot6	Tome of the Eternal	14719	1	5
+General2-Slot7	Peridot	10028	2	5
+General2-Slot8	Fine Steel Warhammer	6350	1	5
+General2-Slot9	Goblin Forged Chain Coif	3260	1	5
+General2-Slot10	Mithril Earring	10041	1	5
+General3	Backpack	17005	1	8
+General3-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
+General3-Slot2	Fine Steel Rapier	7352	1	5
+General3-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
+General3-Slot4	Golden Pendant	10044	1	5
+General3-Slot5	Goblin Forged Chainmail Neckguard	3262	1	5
+General3-Slot6	Flawless Aquamarine	22505	1	5
+General3-Slot7	Sarnak Travel Canteen	5829	20	5
+General3-Slot8	Sarnak Travel Canteen	5829	20	5
+General4	Journeyman's Boots	2300	1	5
+General5	Large Sewing Kit	17880	1	8
+General5-Slot1	Green Flower of Functionality	6816	1	5
+General5-Slot2	Black Flower of Functionality	6817	1	5
+General5-Slot3	Prestidigitator's Robe	31169	1	5
+General5-Slot4	Robe of Burning Rage	24610	1	5
+General5-Slot5	Fine Steel Scimitar	5353	1	5
+General5-Slot6	Worker Sledgemallet	12863	1	5
+General5-Slot7	Goblin Forged Chainmail Cape	3265	1	5
+General5-Slot8	Trakanon Idol	1810	1	5
+General6	Bag of Sewn Evil-Eye	17354	1	8
+General6-Slot1	Tooth of the Cobalt Scar	31602	1	5
+General6-Slot2	Shrine Key	28602	1	5
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Pearl	10024	20	5
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Crystallized Pumice	14524	1	5
+General6-Slot8	Crystallized Pumice	14524	1	5
+General7	Light Burlap Sack	17353	1	8
+General7-Slot1	Chokidai Jerky	5827	18	5
+General7-Slot2	Empty	0	0	0
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Mt. Death Mineral Salts	16972	20	5
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Sarnak Travel Canteen	5829	19	5
+General7-Slot8	Flame Agate	10225	1	5
+General8	Emerald	10029	1	5
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Apothic Crown	1239	1	5
+Bank1-Slot2	Apothic Sleeves	1241	1	5
+Bank1-Slot3	Stein of Ulissa	6363	1	5
+Bank1-Slot4	Circlet of Fire	14779	1	5
+Bank1-Slot5	Staff of Elemental Mastery: Fire	11566	1	5
+Bank1-Slot6	Torch of Alna	6362	1	5
+Bank1-Slot7	Arrow	8005	3	5
+Bank1-Slot8	Staff of Elemental Mastery: Water	11569	1	5
+Bank2	Deck of Spontaneous Generation	17054	1	4
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank3	Travelers Pack	17301	1	8
+Bank3-Slot1	Spider Silk	13041	19	5
+Bank3-Slot2	Phase Spider Blood	26028	1	5
+Bank3-Slot3	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank3-Slot4	Peridot	10028	1	5
+Bank3-Slot5	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank3-Slot6	Key of Veeshan	1817	1	5
+Bank3-Slot7	Key to Charasis	2667	1	5
+Bank3-Slot8	Child's Tear	1673	1	5
+Bank4	Lexicon	17903	1	10
+Bank4-Slot1	Glowing Drake Orb	31260	1	5
+Bank4-Slot2	Flame Kissed Symbol	31256	1	5
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Flame Kissed Symbol	31256	1	5
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Wand of Swords	12502	1	5
+Bank5	Shralok Pack	17401	1	8
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank6	Travelers Pack	17301	1	8
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank7	Lexicon	17903	1	10
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Empty	0	0	0
+Bank8	Travelers Pack	17301	1	8
+Bank8-Slot1	Malachite	10015	19	5
+Bank8-Slot2	Pearl	10024	20	5
+Bank8-Slot3	Pearl	10024	20	5
+Bank8-Slot4	Crystallized Pumice	14524	1	5
+Bank8-Slot5	Crystallized Pumice	14524	1	5
+Bank8-Slot6	Iceball	30014	1	5
+Bank8-Slot7	Crystallized Pumice	14524	1	5
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

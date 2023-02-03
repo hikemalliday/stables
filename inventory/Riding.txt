@@ -1,0 +1,88 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Empty	0	0	0
+Shoulders	Empty	0	0	0
+Arms	Empty	0	0	0
+Back	Empty	0	0	0
+Wrist	Empty	0	0	0
+Wrist	Empty	0	0	0
+Range	Empty	0	0	0
+Hands	Empty	0	0	0
+Primary	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Empty	0	0	0
+Legs	Empty	0	0	0
+Feet	Empty	0	0	0
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Shrine Key	28602	1	5
+General2	Tooth of the Cobalt Scar	31602	1	5
+General3	Trakanon Idol	1810	1	5
+General4	Key of Veeshan	1817	1	5
+General5	Empty	0	0	0
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Shralok Pack	17401	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Mt. Death Mineral Salts	16972	3	5
+Bank1-Slot3	Lyssa`s Darkwood Piccolo	11642	1	5
+Bank1-Slot4	Red Wurm Gut	20528	1	5
+Bank1-Slot5	Child's Tear	1673	1	5
+Bank1-Slot6	Unadorned Plate Bracer	24960	1	5
+Bank1-Slot7	Dirk of the Traitor	1094	1	5
+Bank1-Slot8	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Deck of Spontaneous Generation	17054	1	4
+Bank4-Slot1	Revultant Whip	5522	1	5
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Crystal Key	20033	1	5
+Bank4-Slot4	Key to Charasis	2667	1	5
+Bank5	Empty	0	0	0
+Bank6	Tome of Endless Enchantments	17500	1	10
+Bank6-Slot1	Katana of Flowing Water	10859	1	5
+Bank6-Slot2	Maelstrom	24639	1	5
+Bank6-Slot3	Trochilic's Skean	5078	1	5
+Bank6-Slot4	Infestation	2061	1	5
+Bank6-Slot5	Culler	31822	1	5
+Bank6-Slot6	Nightgrowth Blade	2200	1	5
+Bank6-Slot7	High Quality Cougarskin	30030	1	5
+Bank6-Slot8	High Quality Walrus Hide	30096	1	5
+Bank6-Slot9	Thorny Vine Boots	4897	1	5
+Bank6-Slot10	Empty	0	0	0
+Bank7	Light Burlap Sack	17353	1	8
+Bank7-Slot1	Breastplate of the Untamed	31801	1	5
+Bank7-Slot2	Thorny Vine Gauntlets	4895	1	5
+Bank7-Slot3	Bracer of the Untamed	31803	1	5
+Bank7-Slot4	Bracer of the Untamed	31803	1	5
+Bank7-Slot5	Spell: Thrall of Bones	19299	1	5
+Bank7-Slot6	Ancient Silk Wristband	24925	1	5
+Bank7-Slot7	Blade of Falling Stars	7201	1	5
+Bank7-Slot8	Tainted Darksteel Breastplate	29001	1	5
+Bank8	Lionhide Backpack	17350	1	8
+Bank8-Slot1	Rune of Frost	11780	1	5
+Bank8-Slot2	Ball of Everliving Golem	20677	1	5
+Bank8-Slot3	Thorny Vine Vambraces	4893	1	5
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Lord Bergurgle's Crown	28044	1	5
+Bank8-Slot6	Spell: Theft of Thought	19374	1	5
+Bank8-Slot7	Spell: Dementia	19384	1	5
+Bank8-Slot8	Spell: Color Slant	19378	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

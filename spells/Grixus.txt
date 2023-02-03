@@ -1,0 +1,127 @@
+54	Deflux
+59	Touch of Night
+57	Vexing Mordinia
+60	Trucidation
+52	Plague
+58	Pyrocruor
+56	Cessation of Cor
+51	Splurt
+59	Emissary of Thule
+60	Demi Lich
+55	Augmentation of Death
+44	Dead Man Floating
+51	Envenomed Bolt
+16	Feign Death
+8	Shadow Step
+4	Gate
+24	Resist Cold
+34	Resist Disease
+52	Manaskin
+54	Shield of the Magi
+20	Harmshield
+58	Quivering Veil of Xarn
+24	Rest the Dead
+54	Thrall of Bones
+54	Shadowbond
+24	Screaming Terror
+53	Annul Magic
+12	Bind Affinity
+56	Sedulous Subversion
+58	Immobilize
+1	Disease Cloud
+49	Paralyzing Earth
+50	Improved Invis vs Undead
+44	Covetous Subversion
+1	Invisibility versus Undead
+53	Convergence
+4	Poison Bolt
+12	Sight Graft
+52	Scent of Terris
+1	Cavorting Bones
+34	Invoke Fear
+55	Levant
+57	Conjure Corpse
+60	Arch Lich
+29	Dooming Darkness
+49	Lich
+39	Word of Souls
+34	Call of Bones
+4	True North
+56	Trepidation
+12	Lifedraw
+39	Malignant Dead
+8	Bone Walk
+8	Ward Undead
+12	Heat Blood
+1	Minor Shielding
+4	Lifespike
+8	Lesser Shielding
+34	Greater Shielding
+44	Pact of Shadow
+1	Locate Corpse
+20	Allure of Death
+8	Deadeye
+8	Dark Pact
+39	Scourge
+12	Leach
+8	Gather Shadows
+4	Fear
+34	Root
+12	Spook the Dead
+16	Shielding
+39	Augment Death
+16	Restless Bones
+8	Dark Empathy
+39	Nullify Magic
+4	Clinging Darkness
+4	Leering Corpse
+29	Spirit Tap
+49	Drain Soul
+44	Arch Shielding
+29	Vampiric Curse
+12	Convoke Shadow
+44	Cackling Bones
+24	Major Shielding
+20	Dominate Undead
+29	Boil Blood
+34	Beguile Undead
+39	Drain Spirit
+49	Banish Undead
+49	Cajole Undead
+39	Expel Undead
+29	Dismiss Undead
+20	Siphon Life
+20	Shadow Compact
+29	Word of Spirit
+24	Rapacious Subversion
+34	Venom of the Snake
+49	Ignite Blood
+39	Summon Corpse
+49	Cascading Darkness
+4	Endure Cold
+56	Servant of Bones
+44	Ignite Bones
+16	Banshee Aura
+49	Invoke Death
+51	Dread of Night
+1	Lifetap
+44	Asystole
+12	Engulfing Darkness
+20	Animate Dead
+49	Bond of Death
+53	Minion of Shadows
+20	Identify
+16	Cancel Magic
+55	Chill Bones
+29	Summon Dead
+29	Panic the Dead
+1	Sense the Dead
+52	Defoliation
+59	Devouring Darkness
+51	Sacrifice
+8	Vampiric Embrace
+16	Spirit Armor
+20	Track Corpse
+39	Counteract Disease
+55	Infusion
+44	Summon Companion

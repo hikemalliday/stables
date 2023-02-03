@@ -1,0 +1,203 @@
+1,Burst of Flame
+1,Dance of the Fireflies
+1,Endure Fire
+1,Flame Lick
+1,Lull Animal
+1,Minor Healing
+1,Panic Animal
+1,Sense Animals
+1,Skin like Wood
+1,Snare
+5,Burst of Fire
+5,Camouflage
+5,Cure Disease
+5,Cure Poison
+5,Gate
+5,Grasping Roots
+5,Harmony
+5,Invoke Lightning
+5,Ward Summoned
+5,Whirling Wind
+9,Endure Cold
+9,Enduring Breath
+9,Firefist
+9,Ignite
+9,Invisibility versus Animals
+9,Light Healing
+9,Shield of Thistles
+9,Starshine
+9,Strength of Earth
+9,Thistlecoat
+9,Treeform
+14,Befriend Animal
+14,Bind Affinity
+14,Cascade of Hail
+14,Expulse Summoned
+14,Halo of Light
+14,Invigor
+14,Levitate
+14,See Invisible
+14,Skin Like Rock
+14,Spirit of Wolf
+14,Stinging Swarm
+14,Summon Drink
+14,Summon Food
+19,Barbcoat
+19,Calm Animal
+19,Cancel Magic
+19,Careless Lightning
+19,Dizzying Wind
+19,Endure Disease
+19,Endure Poison
+19,Feral Spirit
+19,Healing
+19,Ring of Butcher
+19,Ring of Commons
+19,Ring of Karana
+19,Ring of Surefall Glade
+19,Ring of Toxxulia
+19,Shield of Barbs
+19,Superior Camouflage
+19,Terrorize Animal
+24,Charm Animals
+24,Creeping Crud
+24,Dismiss Summoned
+24,Ensnaring Roots
+24,Pogonip
+24,Resist Fire
+24,Ring of Feerrott
+24,Ring of Lavastorm
+24,Ring of Ro
+24,Ring of Steamfont
+24,Ring of the Combines
+24,Scale of Wolf
+24,Skin like Steel
+24,Spirit of Cheetah
+24,Sunbeam
+24,Tremor
+24,Wolf Form
+29,Beguile Plants
+29,Bramblecoat
+29,Circle of Butcher
+29,Circle of Commons
+29,Circle of Karana
+29,Circle of Surefall Glade
+29,Circle of Toxxulia
+29,Combust
+29,Counteract Disease
+29,Counteract Poison
+29,Ensnare
+29,Extinguish Fatigue
+29,Greater Healing
+29,Imbue Emerald
+29,Imbue Plains Pebble
+29,Immolate
+29,Ring of Misty
+29,Shield of Brambles
+29,Succor: East
+34,Beguile Animals
+34,Circle of Feerrott
+34,Circle of Iceclad
+34,Circle of Lavastorm
+34,Circle of Ro
+34,Circle of Steamfont
+34,Circle of the Combines
+34,Drones of Doom
+34,Earthquake
+34,Endure Magic
+34,Expel Summoned
+34,Fury of Air
+34,Greater Wolf Form
+34,Lightning Strike
+34,Regeneration
+34,Resist Cold
+34,Ring of Great Divide
+34,Ring of Iceclad
+34,Strength of Stone
+34,Succor: Butcher
+39,Avalanche
+39,Circle of Great Divide
+39,Circle of Misty
+39,Enveloping Roots
+39,Firestrike
+39,Pack Regeneration
+39,Pack Spirit
+39,Ring of Cobalt Scar
+39,Ring of Wakening Lands
+39,Ro's Fiery Sundering
+39,Share Wolf Form
+39,Shield of Spikes
+39,Skin like Diamond
+39,Spikecoat
+39,Succor: Ro
+39,Wind of the North
+39,Wind of the South
+44,Allure of the Wild
+44,Banish Summoned
+44,Calefaction
+44,Chloroplast
+44,Circle of Cobalt Scar
+44,Circle of Wakening Lands
+44,Drifting Death
+44,Fixation of Ro
+44,Form of the Great Wolf
+44,Nullify Magic
+44,Resist Disease
+44,Resist Poison
+44,Savage Spirit
+44,Storm Strength
+44,Succor: Lavastorm
+49,Engulfing Roots
+49,Fire
+49,Ice
+49,Lightning Blast
+49,Pack Chloroplast
+49,Resist Magic
+49,Shield of Thorns
+49,Skin like Nature
+49,Starfire
+49,Succor: North
+49,Thorncoat
+50,Improved Superior Camouflage
+51,Circle of Winter
+51,Legacy of Spike
+51,Repulse Animal
+51,Superior Healing
+51,Upheaval
+52,Breath of Ro
+52,Call of Karana
+52,Circle of Summer
+52,Egress
+53,Glamour of Tunare
+53,Spirit of Scale
+53,Winged Death
+54,Blizzard
+54,Form of the Howler
+54,Regrowth
+54,Scoriae
+55,Annul Magic
+55,Chloroblast
+55,Exile Summoned
+55,Girdle of Karana
+55,Nature Walkers Behest
+55,Tunare's Request
+56,Bladecoat
+56,Breath of Karana
+56,Engorging Roots
+56,Wake of Karana
+57,Bonds of Tunare
+57,Frost
+57,Natureskin
+57,Succor
+58,Fist of Karana
+58,Regrowth of the Grove
+58,Shield of Blades
+59,Legacy of Thorn
+59,Spirit of Oak
+59,Wildfire
+60,Banishment
+60,Entrapping Roots
+60,Form of the Hunter
+60,Mask of the Hunter
+60,Nature's Touch
+60,Protection of the Glades

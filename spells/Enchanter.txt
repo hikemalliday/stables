@@ -1,0 +1,212 @@
+1,Lull
+1,Minor Illusion
+1,Minor Shielding
+1,Pendril's Animation
+1,Reclaim Energy
+1,Shallow Breath
+1,Strengthen
+1,Taper Enchantment
+1,True North
+1,Weaken
+4,Color Flux
+4,Enfeeblement
+4,Fear
+4,Gate
+4,Haze
+4,Illusion: Half-Elf
+4,Illusion: Human
+4,Invisibility
+4,Juli's Animation
+4,Mesmerize
+4,Suffocating Sphere
+4,Tashan
+8,Alliance
+8,Bind Sight
+8,Cancel Magic
+8,Chaotic Feedback
+8,Enchant Clay
+8,Enchant Silver
+8,Eye of Confusion
+8,Illusion: Gnome
+8,Illusion: Wood
+8,Lesser Shielding
+8,Mircyl's Animation
+8,Root
+8,See Invisible
+8,Sentinel
+8,Soothe
+12,Bind Affinity
+12,Charm
+12,Choke
+12,Ebbing Strength
+12,Enduring Breath
+12,Illusion: Dark Elf
+12,Illusion: Erudite
+12,Illusion: Halfling
+12,Illusion: High Elf
+12,Kilan's Animation
+12,Languid Pace
+12,Memory Blur
+12,Mist
+12,Serpent
+12,Thicken Mana
+12,Whirl Till You Hurl
+16,Breeze
+16,Chase the Moon
+16,Disempower
+16,Enchant Electrum
+16,Enthrall
+16,Identify
+16,Illusion: Barbarian
+16,Illusion: Dwarf
+16,Illusion: Tree
+16,Invisibility versus Undead
+16,Levitate
+16,Mesmerization
+16,Quickness
+16,Rune I
+16,Sanity Warp
+16,Shalee's Animation
+16,Shielding
+20,Benevolence	
+20,Berserker Strength	
+20,Calm	
+20,Cloud	
+20,Color 
+20,Crystallize Mana	
+20,Endure Magic	
+20,Feckless Might	
+20,Illusion: Iksar	
+20,Illusion: Ogre	
+20,Illusion: Troll	
+20,Shifting Sight	
+20,Sisna's Animation	
+20,Sympathetic Aura	
+20,Tashani	
+24,Alacrity
+24,Beguile
+24,Chaos Flux
+24,Enchant Gold
+24,Illusion: Earth Elemental
+24,Illusion: Skeleton
+24,Invigor
+24,Major Shielding
+24,Rune II
+24,Sagar's Animation
+24,Strip Enchantment
+24,Tepid Deeds
+29,Augmentation
+29,Clarify Mana
+29,Clarity
+29,Curse of the Simple Mind
+29,Dyn's Dizzying Draught
+29,Enstill
+29,Feedback
+29,Illusion: Air Elemental
+29,Illusion: Water Elemental
+29,Listless Power
+29,Nullify Magic
+29,Obscure
+29,Suffocate
+29,Uleen's Animation 29
+29,Ultravision
+34,Anarchy
+34,Boltran's Animation
+34,Cast Sight
+34,Enchant Platinum
+34,Entrance
+34,Gift of Magic
+34,Greater Shielding
+34,Illusion: Fire Elemental
+34,Insipid Weakness
+34,Mana Sieve
+34,Radiant Visage
+34,Rune III
+39,Aanya's Animation
+39,Cajoling Whispers
+39,Celerity
+39,Distill Mana
+39,Gravity Flux
+39,Illusion: Dry Bone
+39,Illusion: Spirit Wolf
+39,Immobilize
+39,Insight
+39,Invoke Fear
+39,Mind Wipe
+39,Pacify
+39,Rampage
+39,Resist Magic
+39,Shade
+39,Wandering Mind
+44,Arch Shielding
+44,Boon of the Garou
+44,Brilliance
+44,Color Skew
+44,Discordant Mind
+44,Enchant Velium
+44,Extinguish Fatigue
+44,Illusion: Werewolf
+44,Incapacitate
+44,Pillage Enchantment
+44,Rune IV
+44,Shiftless Deeds
+44,Summon Companion
+44,Tashania
+44,Weakness
+44,Yegoreff's Animation
+49,Adorning Grace
+49,Allure
+49,Berserker Spirit
+49,Blanket of Forgetfulness
+49,Dazzle
+49,Enchant Adamantite
+49,Enchant Brellium
+49,Enchant Mithril
+49,Enchant Steel
+49,Gasping Embrace
+49,Group Resist Magic
+49,Kintaz's Animation
+49,Paralyzing Earth
+49,Purify Mana
+49,Reoccurring Amnesia
+49,Shadow
+49,Swift Like The Wind
+50,Improved Invisibility
+51,Collaboration
+51,Theft of Thought
+51,Wake of Tranquility
+52,Boon of the Clear Mind
+52,Color Slant
+52,Fascination
+52,Rune V
+53,Aanya's Quickening
+53,Boltran's Agacerie
+53,Cripple
+53,Recant Magic
+54,Clarity II
+54,Dementia
+54,Glamour of Kintaz
+54,Shield of the Magi
+55,Gift of Insight	
+55,Largarn's Lamentation
+55,Memory Flux
+55,Wind of Tishani
+55,Zumaik`s Animation
+56,Augment
+56,Overwhelming Splendor
+56,Torment of Argli
+56,Trepidation	
+57,Enlightenment
+57,Forlorn Deeds
+57,Tashanian
+57,Umbra
+58,Bedlam
+58,Fetter
+58,Wonderous Rapidity
+59,Asphyxiate
+59,Gift of Pure Thought
+59,Rapture
+60,Dictate
+60,Gift of Brilliance
+60,Visions of Grandeur
+60,Wind of Tishanian

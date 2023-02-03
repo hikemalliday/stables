@@ -1,0 +1,73 @@
+51	Remedy
+39	Complete Healing
+53	Divine Light
+59	Celestial Elixir
+29	Counteract Disease
+24	Counteract Poison
+57	Word of Restoration
+56	Mark of Karn
+60	Aegolism
+52	Heroism
+54	Symbol of Marzin
+52	Heroic Bond
+29	Divine Barrier
+1	Divine Aura
+56	Paralyzing Earth
+5	Gate
+39	Resist Cold
+34	Resist Fire
+44	Resist Magic
+34	Resist Poison
+14	Invisibility versus Undead
+39	Resist Disease
+14	Bind Affinity
+53	Annul Magic
+54	Reckoning
+9	Fear
+5	Stun
+9	Soothe
+39	Pacify
+19	Calm
+5	Summon Drink
+9	Summon Food
+29	Revive
+1	Lull
+39	Resuscitate
+56	Reviviscence
+58	Naltron's Mark
+34	Armor of Protection
+14	Cancel Magic
+29	Enstill
+1	Cure Poison
+5	Cure Disease
+60	Divine Intervention
+52	Upheaval
+5	Cure Blindness
+9	Root
+49	Immobilize
+50	Improved Invis vs Undead
+55	Stun Command
+24	Greater Healing
+24	Inspire Fear
+29	Guard
+14	Healing
+14	Endure Cold
+24	Bravery
+14	Smite
+5	Furor
+24	Symbol of Ryltan
+5	Ward Undead
+29	Wrath
+34	Superior Healing
+1	Spook the Dead
+34	Valor
+1	Courage
+14	Expulse Undead
+1	Minor Healing
+9	Center
+5	Light Healing
+44	Resolution
+34	Symbol of Pinzarn
+49	Resurrection
+44	Symbol of Naltron
+44	Retribution

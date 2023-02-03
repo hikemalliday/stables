@@ -1,0 +1,116 @@
+39	Complete Healing
+53	Divine Light
+52	Heroism
+60	Aegolism
+44	Resist Magic
+56	Paralyzing Earth
+54	Reckoning
+44	Celestial Healing
+29	Divine Barrier
+1	Divine Aura
+54	Symbol of Marzin
+55	Exile Undead
+5	Gate
+14	Invisibility versus Undead
+58	Naltron's Mark
+52	Heroic Bond
+49	Resurrection
+5	Cure Disease
+39	Resist Disease
+34	Resist Poison
+51	Remedy
+39	Pacify
+53	Annul Magic
+39	Invoke Fear
+58	Antidote
+5	Cure Blindness
+39	Resist Cold
+34	Resist Fire
+34	Atone
+39	Word of Souls
+34	Blinding Luminance
+49	Sound of Force
+1	Courage
+9	Center
+24	Symbol of Ryltan
+9	Root
+9	Endure Poison
+9	Endure Fire
+19	Spirit Armor
+5	Holy Armor
+19	Daring
+34	Valor
+52	Upheaval
+19	Endure Magic
+14	Endure Disease
+14	Endure Cold
+29	Guard
+49	Word Divine
+5	Ward Undead
+29	Expulse Summoned
+29	Panic the Dead
+1	Spook the Dead
+1	Strike
+5	Furor
+1	Minor Healing
+5	Light Healing
+19	Word of Shadow
+29	Revive
+24	Dismiss Undead
+39	Dismiss Summoned
+29	Word of Spirit
+34	Word of Health
+14	Healing
+24	Greater Healing
+44	Yaulp III
+29	Wrath
+14	Bind Affinity
+51	Dread of Night
+5	Stun
+19	Holy Might
+1	Yaulp
+5	Reckless Strength
+24	Counteract Poison
+34	Expel Undead
+34	Force
+9	Word of Pain
+9	Soothe
+44	Hammer of Requital
+34	Frenzied Strength
+49	Expel Summoned
+1	Cure Poison
+39	Resuscitate
+34	Symbol of Pinzarn
+29	Enstill
+5	Summon Drink
+29	Abundant Drink
+24	Hammer of Striking
+9	Hammer of Wrath
+14	Cancel Magic
+1	Flash of Light
+44	Resolution
+9	Fear
+9	Summon Food
+34	Abundant Food
+39	Armor of Faith
+34	Superior Healing
+44	Earthquake
+44	Symbol of Naltron
+51	Death Pact
+34	Tremor
+19	Calm
+53	Yaulp IV
+39	Nullify Magic
+44	Retribution
+44	Banish Undead
+56	Reviviscence
+49	Shield of Words
+49	Immobilize
+57	Bulwark of Faith
+49	Word of Healing
+56	Banish Summoned
+49	Abolish Poison
+1	Lull
+55	Stun Command
+57	Aegis
+1	True North

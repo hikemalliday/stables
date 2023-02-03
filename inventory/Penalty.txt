@@ -1,0 +1,170 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of the Living Flame	31470	1	5
+Head	Crown of the Kromzek Kings	25194	1	5
+Face	Silver Mask of the Slayer	31464	1	5
+Ear	Sanctum Guardian's Earring	2065	1	5
+Neck	Bile Etched Obsidian Choker	1550	1	5
+Shoulders	Pauldrons of the Deep Flame	31472	1	5
+Arms	White Lotus Arm Wraps	31191	1	5
+Back	Cloak of the Falling Stars	25207	1	5
+Wrist	Silver Bracelet of Speed	31461	1	5
+Wrist	Bracer of the Hidden	11911	1	5
+Range	Silver Disk	31347	1	5
+Hands	Celestial Fists	10652	1	5
+Primary	Primal Velium Brawl Stick	27324	1	5
+Secondary	Empty	0	0	0
+Fingers	Ring of the Sky	31377	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Chest	Robe of the Azure Sky	10845	1	5
+Legs	Ancient Wurm Hide Greaves	31332	1	5
+Feet	Boots of the Destroyer	31336	1	5
+Waist	Belt of Dwarf Slaying	25858	1	5
+Ammo	Antonian Javelin	21518	15	5
+General1	Bag of the Tinkerers	17403	1	10
+General1-Slot1	Shrine Key	28602	1	5
+General1-Slot2	Holgresh Elder Beads	2669	1	5
+General1-Slot3	Sleeper's Key	27265	1	5
+General1-Slot4	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot5	Jaled Dar's Tomb Key	28060	1	5
+General1-Slot6	Key of Veeshan	1817	1	5
+General1-Slot7	Key to Charasis	2667	1	5
+General1-Slot8	Trakanon Idol	1810	1	5
+General1-Slot9	Lizard Blood Potion	1806	1	5
+General1-Slot10	Trakanon's Tooth	7276	1	5
+General2	Tri-Plated Golden Hackle Hammer	30502	1	5
+General3	Crystallized Pumice	14524	1	5
+General4	Amulet of Necropotence	11646	1	5
+General5	Treasure Hunter`s Satchel	17702	1	10
+General5-Slot1	Ornate Velium Pendant	30294	1	5
+General5-Slot2	Black Flower of Functionality	6817	1	5
+General5-Slot3	Eyepatch of Plunder	30008	1	5
+General5-Slot4	White Flower of Functionality	6815	1	5
+General5-Slot5	White Lotus Pants	31194	1	5
+General5-Slot6	Blue Flower of Functionality	6814	1	5
+General5-Slot7	Pegasus Feather Cloak	2463	1	5
+General5-Slot8	Green Flower of Functionality	6816	1	5
+General5-Slot9	Bracer of Benevolence	29686	1	5
+General5-Slot10	Red Flower of Functionality	6813	1	5
+General6	Kavruul`s Mystic Pouch	17701	1	10
+General6-Slot1	10 Dose Potion of Unlife Awareness	14545	1	5
+General6-Slot2	Empty	0	0	0
+General6-Slot3	Staff of Null	24628	1	5
+General6-Slot4	Ration	13007	19	5
+General6-Slot5	Potion of the Frost	14455	1	5
+General6-Slot6	Antonian Javelin	21518	20	5
+General6-Slot7	10 Dose Ethira's Poison Antidote	14542	1	5
+General6-Slot8	Journeyman's Walking Stick	6618	1	5
+General6-Slot9	Crimson Potion	14518	1	5
+General6-Slot10	Circle of Stones	1804	1	5
+General7	Bag of the Tinkerers	17403	1	10
+General7-Slot1	Gharn's Rock of Smashing	31241	1	5
+General7-Slot2	Primal Velium Fist Wraps	27320	1	5
+General7-Slot3	Shiny Brass Idol	1811	1	5
+General7-Slot4	Bladestopper	11632	1	5
+General7-Slot5	Reaper of the Dead	5374	1	5
+General7-Slot6	Journeyman's Boots	2300	1	5
+General7-Slot7	Worker Sledgemallet	12863	1	5
+General7-Slot8	Empty	0	0	0
+General7-Slot9	Fishbone Earring	10313	1	5
+General7-Slot10	Antonian Javelin	21518	20	5
+General8	Bag of the Tinkerers	17403	1	10
+General8-Slot1	Cloudy Potion	14514	1	5
+General8-Slot2	Cloudy Potion	14514	1	5
+General8-Slot3	Lizard Blood Potion	1806	1	5
+General8-Slot4	Lizard Blood Potion	1806	1	5
+General8-Slot5	10 Dose Blood of the Wolf	14534	1	5
+General8-Slot6	10 Dose Potion of Stinging Wort	14468	1	5
+General8-Slot7	10 Dose Kithar's Disease Treatment	14543	1	5
+General8-Slot8	Lizard Blood Potion	1806	1	5
+General8-Slot9	Crystallized Pumice	14524	1	5
+General8-Slot10	10 Dose Ant's Potion	14536	1	5
+Held	Empty	0	0	0
+Bank1	Book of Dark Bindings	17501	1	10
+Bank1-Slot1	Braided Beard of the Coldain	30108	1	5
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Stone of Morid	14720	1	5
+Bank1-Slot4	Throwing Boulder	8013	6	5
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Di'zok Signet of Service	5728	1	5
+Bank1-Slot8	Wurmscale Fistwraps	5839	1	5
+Bank1-Slot9	Decrepit Hide	14371	1	5
+Bank1-Slot10	Book of Souls	28016	1	5
+Bank2	Book of Dark Bindings	17501	1	10
+Bank2-Slot1	Flame Kissed Symbol	31256	1	5
+Bank2-Slot2	Flame Kissed Symbol	31256	1	5
+Bank2-Slot3	Ruby Symbol	31259	1	5
+Bank2-Slot4	Ruby Symbol	31259	1	5
+Bank2-Slot5	Ruby Symbol	31259	1	5
+Bank2-Slot6	Glowing Drake Orb	31260	1	5
+Bank2-Slot7	Dirk of the Dain	1465	1	5
+Bank2-Slot8	Starmetal Ore	1869	1	5
+Bank2-Slot9	Derakor's Head	31423	1	5
+Bank2-Slot10	Heart of Zordak Ragefire	28019	1	5
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Eroded Leather Sleeves	24944	1	5
+Bank3-Slot2	Eroded Leather Bracelet	24946	1	5
+Bank3-Slot3	Eroded Leather Gloves	24948	1	5
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Torn Enchanted Silk Gloves	24955	1	5
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Empty	0	0	0
+Bank3-Slot10	Corroded Chain Sleeves	24937	1	5
+Bank4	Facesmasher	99548	1	5
+Bank5	Book of Dark Bindings	17501	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	White Lotus Wrist Wraps	31192	1	5
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	10 Dose Kilva's Skin of Flame	14548	1	5
+Bank5-Slot10	Empty	0	0	0
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Fist of Lightning	5836	1	5
+Bank6-Slot2	Ball of Everliving Golem	20677	1	5
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	100' of Waterproofed Rope	27263	1	5
+Bank6-Slot6	Soul Leech, Dark Sword of Blood	11609	1	5
+Bank6-Slot7	Ancient Wyvern Hide Boots	31388	1	5
+Bank6-Slot8	Ice Burrower Skin	27201	1	5
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Box of Nil Space	17082	1	10
+Bank7-Slot1	Blue Crystal Staff	14337	1	5
+Bank7-Slot2	Kedge Backbone	20524	1	5
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Empty	0	0	0
+Bank8	Deluxe Toolbox	17877	1	10
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank8-Slot9	Empty	0	0	0
+Bank8-Slot10	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
