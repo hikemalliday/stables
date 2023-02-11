@@ -34,6 +34,9 @@
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#itemSearchModal">
   Item Search
 </button>
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#p99dirModal" onclick="renderP99DirModal()">
+  P99 dir
+</button>
 
 
 <label for="classdropdown">Class</label>
@@ -171,6 +174,12 @@
         <div id="missingspellsbutton">
          
         </div>
+        <div id="getinventoryandspellsbutton">
+         
+        </div>
+        <div id="copyuibutton">
+         
+        </div>
         
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
@@ -267,6 +276,31 @@
         <div id="inventorybuttons">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
         </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- P99 dir -->
+<div class="modal fade" id="p99dirModal" tabindex="-1" aria-labelledby="p99dirModal" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="p99dirModal">P99 dir</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div id="p99dirmodalbody">
+          </div>
+          <input id="p99dirinput" class="form-control" type="text">
+        </div>
+      
+      </div>
+      <div class="modal-footer">
+        
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        
         
       </div>
     </div>

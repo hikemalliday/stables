@@ -4,6 +4,7 @@ const readline = require('readline');
 const stream = require('stream');
 const app = express();
 const port = 5000;
+const path = require('path');
 // Use fs.readFile to read the JSON file
 // Hopefully the synchronous doesn't break the APP
 
@@ -32,7 +33,7 @@ app.post('/newcharacter', async (req, res) =>
     let {name} = req.body[req.body.length -1];
     console.log(name)
     // Overwrite the entire 'json.db' file with 'dbData'
-    fs.writeFile('db.json', JSON.stringify(req.body, null, 4), (err) =>
+    fs.writeFileSync('db.json', JSON.stringify(req.body, null, 4), (err) =>
     {
         if (err)
         {
@@ -46,10 +47,11 @@ app.post('/newcharacter', async (req, res) =>
     })
     // This next code imports the '.bat' file as a string, and appends a new line to it
     
-    let newBatLine = `copy C:\\r99\\${name} C:\\users\\mikeg\\desktop\\projects\\mikesprojects\\roladex\\inventory\\${name}.txt /y `
+    let newBatLine = `copy C:\\r99\\${name} C:\\users\\mikeg\\desktop\\projects\\mikesprojects\\stables\\inventory\\${name}.txt /y `
     let batString = fs.readFileSync('inventorycopy.bat', "utf8");
     batString = batString + '\n' + newBatLine;
-    fs.writeFileSync('inventorycopytest.bat', batString)
+    fs.writeFileSync('inventorycopy.bat', batString);
+    
 })
 
 app.post('/deletecharacter', async (req, res) =>
@@ -61,12 +63,13 @@ app.post('/deletecharacter', async (req, res) =>
             console.log(err.message);
         }
         else
-        {   // Even tho Im merely overwriting the entire JSON, I'm printing 'char deleted' anyways
+        {   // Even tho im overwriting the entire JSON, I'm printing 'char deleted' anyways
             console.log('character deleted');
             res.send(JSON.stringify('deleted'));
         }
     })
 })
+
 
 app.get('/getinventorydata', async (req, res) =>
 {
@@ -163,6 +166,108 @@ app.get('/getspellbookdata', async (req, res) =>
     })  
 })
 
+app.post('/getinventoryandspells', async (req, res) =>
+{   
+    let spellbookName = `${req.body.name}spells`;
+    let spellbookFile;
+    let inventoryFile;
+    let path = req.body.path;
 
+    try 
+    {
+        inventoryFile = fs.readFileSync(`${path}${req.body.name}`, "utf8");
+    }
+    catch (err)
+    {
+    }
+    
+    try 
+    {
+        spellbookFile = fs.readFileSync(`${path}${spellbookName}`, "utf8",);
+    }
+    catch (err)
+    {
+    }
+    
+    try
+    {
+        fs.writeFileSync(`./inventory/${req.body.name}.txt`, inventoryFile);
+    }
+    catch (err)
+    {
+    }
+    
+    try
+    {
+        fs.writeFileSync(`./spells/${req.body.name}.txt`, spellbookFile);
+    }
+    catch (err)
+    {
+    }
+    
 
+    res.send(JSON.stringify('success'));
+})
 
+app.post('/copyui', async (req, res) =>
+{
+    let uiFile1;
+    let uiFile2;
+
+    try 
+    {
+        uiFile1 = fs.readFileSync(`./classUIs/${req.body.class}_P1999PVP.ini`);
+        // uiFile1 = JSON.stringify(uiFile1);
+        // console.log("uiFile1: ", uiFile1);
+    }
+    catch (err)
+    {
+        console.log('error reading first file: ' , err);
+    }
+
+    try 
+    {
+        uiFile2 = fs.readFileSync(`./classUIs/UI_${req.body.class}_P1999PVP.ini`);
+    }
+    catch (err)
+    {
+        console.log('error reading second file: ' , err);
+    }
+
+    try
+    {
+    
+        fs.writeFileSync(`c:/r99/${req.body.name}_P1999PVP.ini`, uiFile1);
+    }
+    catch (err)
+    {
+        console.log('error writing first file: ', err);
+    }
+    
+    try
+    {
+        fs.writeFileSync(`c:/r99/UI_${req.body.name}_P1999PVP.ini`, uiFile2);
+    }
+    catch (err)
+    {
+        console.log('error writing second file: ', err);
+    }
+
+});
+
+app.post('/p99dirset', async (req, res) =>
+{
+    // Overwrite the entire 'json.db' file with 'dbData'
+    fs.writeFileSync('db.json', JSON.stringify(req.body, null, 4), (err) =>
+    {
+        if (err)
+        {
+            console.log(err.message);
+        }
+        else
+        {
+            console.log('P99 dir changed');
+            res.send(JSON.stringify('success'))
+        }
+    })
+});

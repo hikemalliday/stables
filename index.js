@@ -44,6 +44,48 @@ $('#inventory-search-input').on('keyup', function()
     buildTableInventory(searchData);
 });
 
+// This event/function listens for 'keypress Enter' for the P99 dir modal
+$('#p99dirinput').on('keypress', function(e)
+{
+    let value = $(this).val();
+    
+    if (e.key === 'Enter')
+    {
+        p99DirSet(value);
+    }
+})
+
+// MOVE THIS LATER
+
+async function p99DirSet(path)
+{
+    let body = 
+    {   
+       path: path
+    };
+    
+    data.shift();
+    data.unshift(body);
+   
+    try
+    {
+        const result = await fetch("http://localhost:5000/p99dirset",
+        {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(data)
+        });
+        
+        returnedData = await result.json();
+        console.log('returnedData: ', returnedData);
+
+    }
+    catch(err)
+    {
+        console.log(err)
+    };
+};
+
 // This event/function listens for clicks on 'th', and sorts the column
 $('th').on('click', function() 
 {
@@ -65,6 +107,8 @@ $('th').on('click', function()
     
     buildTableFirst(data)
 })
+
+
 
     // CHARACTER ACCOUNT SEARCH //
 
@@ -213,7 +257,60 @@ function buildMissingSpellsTable(missingSpells)
     }  
 }
 
+async function getInventoryAndSpells(characterName)
+{
+    let body = 
+    {  
+       name: characterName,
+       path: data[0].path  
+    }
+    
+    try
+    {
+        const result = await fetch("http://localhost:5000/getinventoryandspells",
+        {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(body)
+        });
+        
+        // These next 2 lines of code are merely 'awaiting' the response from express and console logging the results
+        returnedData = await result.json();
+        console.log('returnedData: ', returnedData);
 
+    }
+    catch(err)
+    {
+        console.log(err)
+    }
+    
+}
+
+async function copyUi(characterName, characterClass)
+{
+    let body = 
+    {  
+       name: characterName ,
+       class: characterClass   
+    }
+    console.log(body);
+    try
+    {
+        const result = await fetch("http://localhost:5000/copyui",
+        {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(body)
+        });
+        
+        returnedData = await result.json();
+        
+    }
+    catch(err)
+    {
+        console.log(err)
+    }   
+}
 
         // CRUD //
 
@@ -360,6 +457,37 @@ function renderMissingSpellsButton(characterName, characterClass)
     `
 }
 
+function renderGetInventoryAndSpellsButton(characterName)
+{
+    let modalButton = document.getElementById('getinventoryandspellsbutton')
+    modalButton.innerHTML = `
+    <button type="button" onclick="getInventoryAndSpells('${characterName}')" class="btn btn-primary">
+    Get Inventory and Spells
+    </button>
+    `
+}
+
+function renderCopyUiButton(characterName, characterClass)
+{
+    let modalButton = document.getElementById('copyuibutton')
+    modalButton.innerHTML = `
+    <button type="button" onclick="copyUi('${characterName}', '${characterClass}')" class="btn btn-primary">
+    Copy UI
+    </button>
+    `
+}
+
+function renderP99DirModal()
+{
+    let modalBody =document.getElementById('p99dirmodalbody');
+
+    modalBody.innerHTML = `
+    P99 directory path: ${data[0].path}
+    <br>
+    example: c:/programfiles/r99/ (please include the final "/")
+    
+    `
+}
         // SEARCH TABLE //
 
 // This function iterates over every object in the 'data' array, and filters it depending on the search parameters. It is fired on every key stroke.
@@ -396,7 +524,7 @@ function searchTableInventory(value, data)
         }
     }
     return filteredData;
-}
+};
 
 // This function iterates over an array of arrays, filters depending on parameters
 function searchInventoryAll(value, data)
@@ -415,7 +543,7 @@ function searchInventoryAll(value, data)
         }
     }
     return filteredData;
-}
+};
 
         // TABLE BUILDING //
 
@@ -425,10 +553,10 @@ function buildTable(data)
 
     table.innerHTML = ''
 
-    for (let i = 0; i < data.length; i++)
+    for (let i = 1; i < data.length; i++)
     {
         let row = `<tr>
-        <td><a href="javascript:void(0);"  onclick="buildTableInventory(inventoryObject.${data[i].name}), setInventoryObjectName('${data[i].name}'), renderMissingSpellsButton('${data[i].name}', '${data[i].charclass}')" data-bs-toggle="modal" data-bs-target="#inventoryModal">${data[i].name}</a></td>
+        <td><a href="javascript:void(0);"  onclick="setInventoryObjectName('${data[i].name}'), renderMissingSpellsButton('${data[i].name}', '${data[i].charclass}'), renderGetInventoryAndSpellsButton('${data[i].name}'), buildTableInventory(inventoryObject.${data[i].name}), renderCopyUiButton('${data[i].name}', '${data[i].charclass}')" data-bs-toggle="modal" data-bs-target="#inventoryModal">${data[i].name}</a></td>
                         <td>${data[i].charclass}</td>
                         <td>${data[i].account}</td>
                         <td>${data[i].password}</td>
@@ -446,8 +574,17 @@ function buildTable(data)
 // Builds table for the inventory modal
 function buildTableInventory(data)
 {
+
     let table = document.getElementById('inventoryTable');
     table.innerHTML = '';
+
+
+    if (data === undefined)
+    { 
+        return;
+    }
+
+    
 
     for (let i = 0; i < data.length; i++)
     {
@@ -485,6 +622,10 @@ function buildTableItemSearch(data)
 function setInventoryObjectName(name)
 {
     inventoryObjectName = inventoryObject[name];
+     if (inventoryObjectName === undefined)
+     { 
+        return;
+     }
     // For loop starting at 1, because 0 is a redundant table header
     for (let i = 1; i < inventoryObjectName.length; i++)
     {

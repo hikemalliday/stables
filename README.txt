@@ -1,3 +1,11 @@
+**TIPS/QUIRKS**
+-Item/inventory queries are case sensitive, however character name queries are not (im just a bad is why)
+-You need to go into express and hardcode the path to the P99 folder in some of the functions.
+
+
+
+
+
 --APP FLOW--
 --Global Variables: 
   -let data = null;
