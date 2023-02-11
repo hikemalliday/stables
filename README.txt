@@ -6,7 +6,7 @@
 **HOW TO LAUNCH APP**
 -Double click on launchApp.bat from the directory folder. It should launch server and open your default browser to the correct page. If not, just type in 'localhost:5000' into your browser. That's it!
 
-**WHEN OUTPUTING INVENTORY SPELL FILES**
+**HOW TO OUTPUT INVENTORY/SPELLBOOK FILES*
 -Commands to output inventory/spellbook files:
   -Load into a character in game, and type: output inventory Charname
   -Load into a character in game, and type: output spellbook Charnamespells
