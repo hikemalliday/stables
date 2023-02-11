@@ -213,12 +213,12 @@ app.post('/copyui', async (req, res) =>
 {
     let uiFile1;
     let uiFile2;
+    let path = req.body.path
 
     try 
     {
         uiFile1 = fs.readFileSync(`./classUIs/${req.body.class}_P1999PVP.ini`);
-        // uiFile1 = JSON.stringify(uiFile1);
-        // console.log("uiFile1: ", uiFile1);
+        
     }
     catch (err)
     {
@@ -237,7 +237,7 @@ app.post('/copyui', async (req, res) =>
     try
     {
     
-        fs.writeFileSync(`c:/r99/${req.body.name}_P1999PVP.ini`, uiFile1);
+        fs.writeFileSync(`${path}${req.body.name}_P1999PVP.ini`, uiFile1);
     }
     catch (err)
     {
@@ -246,7 +246,7 @@ app.post('/copyui', async (req, res) =>
     
     try
     {
-        fs.writeFileSync(`c:/r99/UI_${req.body.name}_P1999PVP.ini`, uiFile2);
+        fs.writeFileSync(`${path}UI_${req.body.name}_P1999PVP.ini`, uiFile2);
     }
     catch (err)
     {
