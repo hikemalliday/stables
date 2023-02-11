@@ -8,8 +8,8 @@
 
 **HOW TO OUTPUT INVENTORY/SPELLBOOK FILES*
 -Commands to output inventory/spellbook files:
-  -Load into a character in game, and type: output inventory Charname
-  -Load into a character in game, and type: output spellbook Charnamespells
+  -Load into a character in game, and type: /output inventory Charname
+  -Load into a character in game, and type: /output spellbook Charnamespells
   -THESE MUST BE FORMATTED AS SUCH, with the first letter of the character name capitalized, and the rest lower case. 
 
 
