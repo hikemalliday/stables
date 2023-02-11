@@ -1,0 +1,224 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Head	Nathsar Helm	5732	1	5
+Face	Polished Mithril Mask	4505	1	5
+Ear	Forest Loop	11538	1	5
+Neck	Black Sapphire Velium Necklace	30351	1	5
+Shoulders	Pegasus Feather Cloak	2463	1	5
+Arms	Vermiculated Armplates	3803	1	5
+Back	Lodizal Shell Shield	22816	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Othmir Prexus Totem	28514	1	5
+Hands	Gloves of Earthcrafting	1208	1	5
+Primary	Nature Walkers Scimitar	20490	1	5
+Secondary	Sarnak Battle Shield	9205	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Fingers	Knotted Turtlebone Ring	30070	1	5
+Chest	Woven Grass Chestguard	31148	1	5
+Legs	Greaves of Harmony	31812	1	5
+Feet	Golden Efreeti Boots	4407	1	5
+Waist	Drakescale Belt	2338	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Pearl	10024	20	5
+General1-Slot2	Pearl	10024	20	5
+General1-Slot3	Pearl	10024	20	5
+General1-Slot4	Pearl	10024	20	5
+General1-Slot5	Pearl	10024	20	5
+General1-Slot6	Pearl	10024	20	5
+General1-Slot7	Pearl	10024	20	5
+General1-Slot8	Pearl	10024	20	5
+General1-Slot9	Pearl	10024	20	5
+General1-Slot10	Pearl	10024	20	5
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Water Flask	13006	14	5
+General2-Slot2	Water Flask	13006	20	5
+General2-Slot3	Water Flask	13006	20	5
+General2-Slot4	Water Flask	13006	20	5
+General2-Slot5	Water Flask	13006	20	5
+General2-Slot6	Water Flask	13006	20	5
+General2-Slot7	Breath of Solusek	11801	1	5
+General2-Slot8	Fine Steel Great Staff	6352	1	5
+General2-Slot9	Empty	0	0	0
+General2-Slot10	Golem Metal Wand	14313	1	5
+General3	Deluxe Toolbox	17877	1	10
+General3-Slot1	Flight Arrow	8322	20	5
+General3-Slot2	Flight Arrow	8322	20	5
+General3-Slot3	Flight Arrow	8322	20	5
+General3-Slot4	Flight Arrow	8322	20	5
+General3-Slot5	Lizard Blood Potion	1806	1	5
+General3-Slot6	Lizard Blood Potion	1806	1	5
+General3-Slot7	Lizard Blood Potion	1806	1	5
+General3-Slot8	Lizard Blood Potion	1806	1	5
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Deluxe Toolbox	17877	1	10
+General4-Slot1	Flight Arrow	8322	20	5
+General4-Slot2	Flight Arrow	8322	20	5
+General4-Slot3	Flight Arrow	8322	20	5
+General4-Slot4	Flight Arrow	8322	20	5
+General4-Slot5	Flight Arrow	8322	20	5
+General4-Slot6	Flight Arrow	8322	20	5
+General4-Slot7	Flight Arrow	8322	20	5
+General4-Slot8	Flight Arrow	8322	20	5
+General4-Slot9	Flight Arrow	8322	20	5
+General4-Slot10	Flight Arrow	8322	20	5
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Blade of the Earthcaller	7243	1	5
+General5-Slot2	Ry'Gorr Invasion Plans	30136	1	5
+General5-Slot3	Efreeti War Spear	20831	1	5
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Morning Dew	16594	1	5
+General5-Slot6	10 Dose Ant's Potion	14536	1	5
+General5-Slot7	Unicorn Horn	10154	1	5
+General5-Slot8	Unicorn Horn	10154	1	5
+General5-Slot9	10 Dose Kithar's Disease Treatment	14543	1	5
+General5-Slot10	10 Dose Ethira's Poison Antidote	14542	1	5
+General6	Deluxe Toolbox	17877	1	10
+General6-Slot1	Black Flower of Functionality	6817	1	5
+General6-Slot2	Green Flower of Functionality	6816	1	5
+General6-Slot3	Obulus Death Shroud	4315	1	5
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Shovel of Ponz	6361	1	5
+General6-Slot6	Worker Sledgemallet	12863	1	5
+General6-Slot7	Holgresh Mojo Stick	24885	1	5
+General6-Slot8	Holgresh Mojo Stick	24885	1	5
+General6-Slot9	Ring of the Ancients	12268	1	5
+General6-Slot10	Empty	0	0	0
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Muffin	13014	4	5
+General7-Slot2	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Fire Beetle Eye	10307	1	5
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Fish Eggs	16498	4	5
+General7-Slot9	Bone Chips	13073	20	5
+General7-Slot10	Bone Chips	13073	7	5
+General8	Deluxe Toolbox	17877	1	10
+General8-Slot1	Berries	13045	1	5
+General8-Slot2	Berries	13045	1	5
+General8-Slot3	Empty	0	0	0
+General8-Slot4	Vegetables	13419	1	5
+General8-Slot5	Empty	0	0	0
+General8-Slot6	Empty	0	0	0
+General8-Slot7	Empty	0	0	0
+General8-Slot8	Empty	0	0	0
+General8-Slot9	Empty	0	0	0
+General8-Slot10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Circlet of Tallon	25037	1	5
+Bank1-Slot2	Fusible Coral Ore	2447	1	5
+Bank1-Slot3	Second part of an Iceclad Map	30044	1	5
+Bank1-Slot4	Fourth part of an Iceclad Map	30073	1	5
+Bank1-Slot5	Orb of Frozen Water	28049	1	5
+Bank1-Slot6	Silver Wand	6338	1	5
+Bank1-Slot7	Ingot of the Constant	19011	1	5
+Bank1-Slot8	Goblin Fire Totem	13743	1	5
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Bronze Disc	20935	1	5
+Bank2-Slot2	Royal Kromrif blood	1858	1	5
+Bank2-Slot3	Hill Giant Toes	16539	1	5
+Bank2-Slot4	Hill Giant Toes	16539	1	5
+Bank2-Slot5	Hill Giant Toes	16539	1	5
+Bank2-Slot6	Hill Giant Toes	16539	1	5
+Bank2-Slot7	Hill Giant Toes	16539	1	5
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Woven Frost Giant Beard	30106	1	5
+Bank2-Slot10	Empty	0	0	0
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Frost Giant Toes	29125	1	5
+Bank3-Slot2	Frost Giant Toes	29125	1	5
+Bank3-Slot3	Frost Giant Toes	29125	1	5
+Bank3-Slot4	Frost Giant Toes	29125	1	5
+Bank3-Slot5	Frost Giant Toes	29125	1	5
+Bank3-Slot6	Frost Giant Toes	29125	1	5
+Bank3-Slot7	Frost Giant Toes	29125	1	5
+Bank3-Slot8	Frost Giant Toes	29125	1	5
+Bank3-Slot9	Frost Giant Toes	29125	1	5
+Bank3-Slot10	Frost Giant Toes	29125	1	5
+Bank4	Bag of Sewn Evil-Eye	17354	1	8
+Bank4-Slot1	Frost Giant Toes	29125	1	5
+Bank4-Slot2	Frost Giant Toes	29125	1	5
+Bank4-Slot3	Frost Giant Toes	29125	1	5
+Bank4-Slot4	Frost Giant Toes	29125	1	5
+Bank4-Slot5	Frost Giant Toes	29125	1	5
+Bank4-Slot6	Frost Giant Toes	29125	1	5
+Bank4-Slot7	Frost Giant Toes	29125	1	5
+Bank4-Slot8	Empty	0	0	0
+Bank5	Deluxe Toolbox	17877	1	10
+Bank5-Slot1	Kromrif Head	30082	1	5
+Bank5-Slot2	Kromrif Head	30082	1	5
+Bank5-Slot3	Kromrif Head	30082	1	5
+Bank5-Slot4	Kromrif Head	30082	1	5
+Bank5-Slot5	Kromrif Head	30082	1	5
+Bank5-Slot6	Kromrif Head	30082	1	5
+Bank5-Slot7	Kromrif Head	30082	1	5
+Bank5-Slot8	Kromrif Head	30082	1	5
+Bank5-Slot9	Kromrif Head	30082	1	5
+Bank5-Slot10	Kromrif Head	30082	1	5
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Kromrif Head	30082	1	5
+Bank6-Slot2	Kromrif Head	30082	1	5
+Bank6-Slot3	Kromrif Head	30082	1	5
+Bank6-Slot4	Kromrif Head	30082	1	5
+Bank6-Slot5	Kromrif Head	30082	1	5
+Bank6-Slot6	Kromrif Head	30082	1	5
+Bank6-Slot7	Kromrif Head	30082	1	5
+Bank6-Slot8	Kromrif Head	30082	1	5
+Bank6-Slot9	Kromrif Head	30082	1	5
+Bank6-Slot10	Kromrif Head	30082	1	5
+Bank7	Deluxe Toolbox	17877	1	10
+Bank7-Slot1	Kromrif Head	30082	1	5
+Bank7-Slot2	Kromrif Head	30082	1	5
+Bank7-Slot3	Kromrif Head	30082	1	5
+Bank7-Slot4	Kromrif Head	30082	1	5
+Bank7-Slot5	Kromrif Head	30082	1	5
+Bank7-Slot6	Kromrif Head	30082	1	5
+Bank7-Slot7	Kromrif Head	30082	1	5
+Bank7-Slot8	Kromrif Head	30082	1	5
+Bank7-Slot9	Kromrif Head	30082	1	5
+Bank7-Slot10	Kromrif Head	30082	1	5
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Kromrif Head	30082	1	5
+Bank8-Slot2	Kromrif Head	30082	1	5
+Bank8-Slot3	Kromrif Head	30082	1	5
+Bank8-Slot4	Kromrif Head	30082	1	5
+Bank8-Slot5	Kromrif Head	30082	1	5
+Bank8-Slot6	Kromrif Head	30082	1	5
+Bank8-Slot7	Kromrif Head	30082	1	5
+Bank8-Slot8	Kromrif Head	30082	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Deluxe Toolbox	17877	1	10
+SharedBank1-Slot1	Kromrif Head	30082	1	5
+SharedBank1-Slot2	Kromrif Head	30082	1	5
+SharedBank1-Slot3	Kromrif Head	30082	1	5
+SharedBank1-Slot4	Kromrif Head	30082	1	5
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Deluxe Toolbox	17877	1	10
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Empty	0	0	0

@@ -1,0 +1,128 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of Essence	14714	1	5
+Head	Crown of King Tranix	4504	1	5
+Face	Eyepatch of Plunder	30008	1	5
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Neck	Entariz's Talisman	27250	1	5
+Shoulders	Pauldrons of Blight	31416	1	5
+Arms	Crystal Chitin Armplates	25288	1	5
+Back	Lodizal Shell Shield	22816	1	5
+Wrist	Bracer of Benevolence	29686	1	5
+Wrist	Bracer of Benevolence	29686	1	5
+Range	Priceless Velium Reinforced Bow	27306	1	5
+Hands	Silver Steel Gauntlets	25078	1	5
+Primary	Gaudralek, Sword of the Sky	31305	1	5
+Secondary	Empty	0	0	0
+Fingers	Velium Fire Wedding Ring	30339	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Chest	Champion's Breastplate	31085	1	5
+Legs	Indicolite Greaves	4916	1	5
+Feet	Barbed Dragonscale Boots	25029	1	5
+Waist	Runed Bolster Belt	11601	1	5
+Ammo	Flight Arrow	8322	7	5
+General1	Amulet of Necropotence	11646	1	5
+General2	Pegasus Feather Cloak	2463	1	5
+General3	Deluxe Toolbox	17877	1	10
+General3-Slot1	Crystallized Pumice	14524	1	5
+General3-Slot2	Crystallized Pumice	14524	1	5
+General3-Slot3	Crystallized Pumice	14524	1	5
+General3-Slot4	Crystallized Pumice	14524	1	5
+General3-Slot5	Crystallized Pumice	14524	1	5
+General3-Slot6	Crystallized Pumice	14524	1	5
+General3-Slot7	Crystallized Pumice	14524	1	5
+General3-Slot8	Crystallized Pumice	14524	1	5
+General3-Slot9	Crystallized Pumice	14524	1	5
+General3-Slot10	Crystallized Pumice	14524	1	5
+General4	Deluxe Toolbox	17877	1	10
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Wyvern Flesh Pie	25183	19	5
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Trakanon Idol	1810	1	5
+General4-Slot6	Cloudy Potion	14514	1	5
+General4-Slot7	10 Dose Potion of Unlife Awareness	14545	1	5
+General4-Slot8	10 Dose Ant's Potion	14536	1	5
+General4-Slot9	10 Dose Kithar's Disease Treatment	14543	1	5
+General4-Slot10	10 Dose Ethira's Poison Antidote	14542	1	5
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Sleeper's Key	27265	1	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Spyglass	16868	1	5
+General5-Slot10	Empty	0	0	0
+General6	Darkwood Trunk	17703	1	10
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Earthshaker	5667	1	5
+General6-Slot3	Rocksmasher	31317	1	5
+General6-Slot4	Primal Velium Claidhmore	27323	1	5
+General6-Slot5	Cobalt Boots	4521	1	5
+General6-Slot6	Lodizal Shell Boots	30069	1	5
+General6-Slot7	Runed Bone Fork	7314	1	5
+General6-Slot8	Cobalt Vambraces	4517	1	5
+General6-Slot9	Fungus Covered Scale Tunic	2735	1	5
+General6-Slot10	Truncheon of Doom	6638	1	5
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Shrine Key	28602	1	5
+General7-Slot2	Infestation	2061	1	5
+General7-Slot3	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Flight Arrow	8322	20	5
+General7-Slot6	Flight Arrow	8322	20	5
+General7-Slot7	Flight Arrow	8322	20	5
+General7-Slot8	Flight Arrow	8322	20	5
+General7-Slot9	Flight Arrow	8322	20	5
+General7-Slot10	Flight Arrow	8322	20	5
+General8	Deluxe Toolbox	17877	1	10
+General8-Slot1	Reaper of the Dead	5374	1	5
+General8-Slot2	Worker Sledgemallet	12863	1	5
+General8-Slot3	Blade of Strategy	2661	1	5
+General8-Slot4	Blade of Tactics	2660	1	5
+General8-Slot5	Journeyman's Boots	2300	1	5
+General8-Slot6	10 Dose Blood of the Wolf	14534	1	5
+General8-Slot7	Bracer of the Hidden	11911	1	5
+General8-Slot8	Empty	0	0	0
+General8-Slot9	Green Flower of Functionality	6816	1	5
+General8-Slot10	Black Flower of Functionality	6817	1	5
+Held	Empty	0	0	0
+Bank1	Rodrick's Head	1045	1	5
+Bank2	Deck of Spontaneous Generation	17054	1	4
+Bank2-Slot1	A Blue Crown	24559	1	5
+Bank2-Slot2	A Black Crown	24551	1	5
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Key to Charasis	2667	1	5
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Club of the Ice Ocean	30071	1	5
+Bank3-Slot10	Midnight Mallet	10081	1	5
+Bank4	Swirling Sphere of Color	20494	1	5
+Bank5	Medallion of the Jarsath	19954	1	5
+Bank6	Dirk of the Dain	1465	1	5
+Bank7	Red Scabbard	17869	1	4
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank8	Braided Beard of the Coldain	30108	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

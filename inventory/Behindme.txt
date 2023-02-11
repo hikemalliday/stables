@@ -1,0 +1,162 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Blue Diamond Electrum Earring	30365	1	5
+Head	Fine Silk Turban	1405	1	5
+Face	Enshrouded Veil	1625	1	5
+Ear	Earring of Essence	14714	1	5
+Neck	Amulet of Insight	30515	1	5
+Shoulders	Loam Encrusted Amice	1645	1	5
+Arms	Carmine Sleeves	1227	1	5
+Back	Loam Encrusted Cloak	1646	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Student's Homework	29116	1	5
+Hands	Loam Encrusted Gloves	1650	1	5
+Primary	Blue Crystal Staff	14337	1	5
+Secondary	A Glowing Black Stone	10404	1	5
+Fingers	Diamond Wedding Band	29210	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Chest	Ancient Wurm Hide Robe	2840	1	5
+Legs	Loam Encrusted Pantaloons	1651	1	5
+Feet	Loam Encrusted Lined Shoes	1652	1	5
+Waist	Loam Encrusted Sash	1647	1	5
+Ammo	Empty	0	0	0
+General1	Large Soiled Bag	17404	1	10
+General1-Slot1	Flawed Emerald	25821	2	5
+General1-Slot2	Chipped Onyx Sapphire	25827	3	5
+General1-Slot3	Crushed Onyx Sapphire	25841	5	5
+General1-Slot4	Crushed Opal	25836	5	5
+General1-Slot5	Jaundice Gem	25815	3	5
+General1-Slot6	Flawed Topaz	25818	2	5
+General1-Slot7	Crushed Black Marble	25833	2	5
+General1-Slot8	Crushed Flame Emerald	25838	4	5
+General1-Slot9	Crushed Flame Opal	25837	5	5
+General1-Slot10	Crushed Lava Ruby	25840	10	5
+General2	Staff of Temperate Flux	6342	1	5
+General3	Journeyman's Boots	2300	1	5
+General4	Pegasus Feather Cloak	2463	1	5
+General5	Light Burlap Sack	17353	1	8
+General5-Slot1	Crushed Jaundice Gem	25829	2	5
+General5-Slot2	Peridot	10028	6	5
+General5-Slot3	Crushed Coral	25831	3	5
+General5-Slot4	Key to Charasis	2667	1	5
+General5-Slot5	Gears	16858	9	5
+General5-Slot6	Bat Wing	13068	20	5
+General5-Slot7	Crimson Potion	14518	1	5
+General5-Slot8	Small Portal Fragments	2093	16	5
+General6	Dusty Ransacker's Pack	17081	1	8
+General6-Slot1	Ration	13007	6	5
+General6-Slot2	Lockpicks	13010	1	5
+General6-Slot3	Trakanon Idol	1810	1	5
+General6-Slot4	Sprockets	16859	9	5
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Rat Ears	13072	9	5
+General6-Slot7	Fishbone Earring	10313	1	5
+General6-Slot8	Jasper	10020	20	5
+General7	Empty	0	0	0
+General8	Lionhide Backpack	17350	1	8
+General8-Slot1	Peridot	10028	20	5
+General8-Slot2	Peridot	10028	20	5
+General8-Slot3	Crushed Topaz	25832	1	5
+General8-Slot4	Peridot	10028	20	5
+General8-Slot5	Water Flask	13006	7	5
+General8-Slot6	Tooth of the Cobalt Scar	31602	1	5
+General8-Slot7	Emerald	10029	1	5
+General8-Slot8	Lockpicks	13010	1	5
+Held	Empty	0	0	0
+Bank1	Lexicon	17903	1	10
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Frosty key	20035	1	5
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Crystal Key	20033	1	5
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Lexicon	17903	1	10
+Bank2-Slot1	Wyvern Meat	22808	20	5
+Bank2-Slot2	Wyvern Meat	22808	20	5
+Bank2-Slot3	Wyvern Meat	22808	20	5
+Bank2-Slot4	Wyvern Meat	22808	20	5
+Bank2-Slot5	Spell: Shiftless Deeds	15186	1	5
+Bank2-Slot6	Wyvern Meat	22808	20	5
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Ice Wyvern Stinger	25101	1	5
+Bank2-Slot10	Empty	0	0	0
+Bank3	Lexicon	17903	1	10
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Empty	0	0	0
+Bank3-Slot10	Empty	0	0	0
+Bank4	Deluxe Toolbox	17877	1	10
+Bank4-Slot1	Spell: Tears of Prexus	19339	1	5
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Spell: Invert Gravity	19341	1	5
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Spell: Ice Spear of Solist	30426	1	5
+Bank4-Slot6	Spell: Pillar of Flame	19335	1	5
+Bank4-Slot7	Spell: Sunstrike	19345	1	5
+Bank4-Slot8	Spell: Evacuate	19336	1	5
+Bank4-Slot9	Spell: Manasink	19414	1	5
+Bank4-Slot10	Spell: Flaming Sword of Xuzl	19344	1	5
+Bank5	Lexicon	17903	1	10
+Bank5-Slot1	High Quality Cat Pelt	12086	1	5
+Bank5-Slot2	Arctic Wyvern Hide	28511	20	5
+Bank5-Slot3	High Quality Bear Skin	13752	1	5
+Bank5-Slot4	Arctic Wyvern Hide	28511	5	5
+Bank5-Slot5	High Quality Cat Pelt	12086	1	5
+Bank5-Slot6	Black Sapphire	10036	1	5
+Bank5-Slot7	Grizzly Bear Skin	9896	1	5
+Bank5-Slot8	Tome of Order and Discord	18700	1	5
+Bank5-Slot9	Black Panther Skin	22847	1	5
+Bank5-Slot10	Small Portal Fragments	2093	19	5
+Bank6	Lexicon	17903	1	10
+Bank6-Slot1	A Stein	16547	1	5
+Bank6-Slot2	Amber	10022	1	5
+Bank6-Slot3	Dagger of Dropping	7323	1	5
+Bank6-Slot4	Iksar Berserker Club	6687	1	5
+Bank6-Slot5	Larrikan's Mask	2736	1	5
+Bank6-Slot6	Sentient Two-Handed Axe	24891	1	5
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Ice Wyvern Stinger	25101	1	5
+Bank6-Slot10	Empty	0	0	0
+Bank7	Lexicon	17903	1	10
+Bank7-Slot1	Three Toothed Key	20034	1	5
+Bank7-Slot2	Note to Arantir	18168	1	5
+Bank7-Slot3	Dwarven Ringmail Tunic	3301	1	5
+Bank7-Slot4	Staff of Gabstik	14339	1	5
+Bank7-Slot5	Words of Recluse	11832	1	5
+Bank7-Slot6	Rune of Howling	11768	1	5
+Bank7-Slot7	Nephrite	25816	3	5
+Bank7-Slot8	Flawed Flame Emerald	25824	1	5
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Pearl	10024	2	5
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Wand of Conflagration	12500	1	5
+Bank8-Slot2	Bat Wing	13068	7	5
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

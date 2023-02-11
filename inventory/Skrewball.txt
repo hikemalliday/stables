@@ -1,0 +1,90 @@
+1	Flame Lick
+29	Combust
+29	Ensnare
+24	Ensnaring Roots
+14	Bind Affinity
+24	Creeping Crud
+14	Spirit of Wolf
+29	Immolate
+29	Counteract Disease
+29	Greater Healing
+29	Counteract Poison
+14	See Invisible
+24	Spirit of Cheetah
+5	Harmony
+29	Bramblecoat
+5	Gate
+24	Resist Fire
+9	Endure Cold
+19	Endure Poison
+19	Endure Disease
+1	Skin like Wood
+29	Shield of Brambles
+14	Summon Drink
+14	Summon Food
+1	Panic Animal
+9	Strength of Earth
+1	Lull Animal
+9	Treeform
+1	Sense Animals
+24	Wolf Form
+9	Invisibility versus Animals
+19	Superior Camouflage
+19	Calm Animal
+19	Careless Lightning
+19	Feral Spirit
+19	Barbcoat
+19	Terrorize Animal
+24	Charm Animals
+19	Healing
+34	Lightning Strike
+34	Earthquake
+34	Endure Magic
+34	Drones of Doom
+34	Regeneration
+24	Ring of the Combines
+29	Ring of Misty
+24	Ring of Steamfont
+19	Ring of Butcher
+24	Ring of Feerrott
+19	Ring of Karana
+24	Ring of Lavastorm
+19	Ring of Commons
+24	Ring of Ro
+19	Ring of Toxxulia
+29	Circle of Commons
+29	Succor: East
+29	Circle of Toxxulia
+29	Circle of Karana
+34	Circle of Iceclad
+34	Ring of Iceclad
+14	Stinging Swarm
+29	Circle of Butcher
+34	Circle of Lavastorm
+34	Circle of Steamfont
+34	Circle of Feerrott
+34	Circle of Ro
+14	Befriend Animal
+24	Sunbeam
+1	Minor Healing
+9	Light Healing
+5	Cure Disease
+5	Cure Poison
+5	Invoke Lightning
+19	Dizzying Wind
+24	Pogonip
+14	Invigor
+9	Ignite
+5	Burst of Fire
+1	Burst of Flame
+1	Endure Fire
+1	Snare
+5	Grasping Roots
+5	Camouflage
+9	Firefist
+14	Skin like Rock
+9	Thistlecoat
+9	Shield of Thistles
+19	Shield of Barbs
+19	Cancel Magic
+9	Starshine

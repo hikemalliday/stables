@@ -1,0 +1,190 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Black Sapphire Electrum Earring	14701	1	5
+Head	Ethereal Mist Helm	4881	1	5
+Face	Sarnak-Hide Mask	2734	1	5
+Ear	Forest Loop	11538	1	5
+Neck	White Gold Necklace	10147	1	5
+Shoulders	Bloodstained Mantle	3309	1	5
+Arms	Gatorscale Sleeves	2458	1	5
+Back	Hooded Black Cloak	1409	1	5
+Wrist	Wolf's Eye Golden Bracelet	14646	1	5
+Wrist	Runed Mithril Bracer	4406	1	5
+Range	Preserved Split Paw Eye	16848	1	5
+Hands	Iksar Scaled Gloves	11980	1	5
+Primary	Wraith Bone Hammer	6382	1	5
+Secondary	Pearl Kedge Totem	10335	1	5
+Fingers	Platinum Jacinth Wedding Ring	14699	1	5
+Fingers	Platinum Jacinth Wedding Ring	14699	1	5
+Chest	Robe of Living Fungus	99512	1	5
+Legs	Gatorscale Leggings	2461	1	5
+Feet	Empty	0	0	0
+Waist	Straw Spun Belt	11545	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Ration	13007	18	5
+General1-Slot2	Water Flask	13006	18	5
+General1-Slot3	Ration	13007	20	5
+General1-Slot4	Water Flask	13006	20	5
+General1-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot6	Shrine Key	28602	1	5
+General1-Slot7	Peridot	10028	4	5
+General1-Slot8	Peridot	10028	20	5
+General1-Slot9	Orb of Frozen Water	28049	1	5
+General1-Slot10	Ornate Sea Shell	28056	1	5
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General2-Slot9	Empty	0	0	0
+General2-Slot10	Empty	0	0	0
+General3	Deluxe Toolbox	17877	1	10
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Kromzek Surveyor Scope	30221	1	5
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Black Sapphire Electrum Earring	14701	1	5
+General5-Slot2	Wolf's Eye Golden Bracelet	14646	1	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Empty	0	0	0
+General5-Slot10	Empty	0	0	0
+General6	Deluxe Toolbox	17877	1	10
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Empty	0	0	0
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General6-Slot9	Empty	0	0	0
+General6-Slot10	Empty	0	0	0
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Empty	0	0	0
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Empty	0	0	0
+General7-Slot9	Empty	0	0	0
+General7-Slot10	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Large Sewing Kit	17880	1	8
+Bank1-Slot1	Fishing Pole	13100	1	5
+Bank1-Slot2	Fishing Pole	13100	1	5
+Bank1-Slot3	Fishing Pole	13100	1	5
+Bank1-Slot4	Fresh Fish	13019	20	5
+Bank1-Slot5	Koada Cichlid	22764	20	5
+Bank1-Slot6	Fresh Fish	13019	17	5
+Bank1-Slot7	Fish Scales	13076	20	5
+Bank1-Slot8	Koada Cichlid	22764	6	5
+Bank2	Large Sewing Kit	17880	1	8
+Bank2-Slot1	Fish Scales	13076	17	5
+Bank2-Slot2	Peridot	10028	2	5
+Bank2-Slot3	Jarsath Scale Helm	3251	1	5
+Bank2-Slot4	Faded Silver Tunic*	13546	1	5
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Splintered Wooden Key	20361	1	5
+Bank2-Slot8	Empty	0	0	0
+Bank3	Large Sewing Kit	17880	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Large Sewing Kit	17880	1	8
+Bank4-Slot1	Obsidian Ring of Quintessence	10345	1	5
+Bank4-Slot2	Master Wu's Trance Stick	6619	1	5
+Bank4-Slot3	Wraith Bone Hammer	6382	1	5
+Bank4-Slot4	Wraith Bone Hammer	6382	1	5
+Bank4-Slot5	Kunzar Ku'juch	5159	1	5
+Bank4-Slot6	Crystallized Sulfur	16976	1	5
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank5	Large Sewing Kit	17880	1	8
+Bank5-Slot1	Split Paw Hide Belt	2283	1	5
+Bank5-Slot2	Mountain Death Belt	1194	1	5
+Bank5-Slot3	Dagger of Dropping	7323	1	5
+Bank5-Slot4	Split Paw Hide Tunic	2281	1	5
+Bank5-Slot5	Preserved Split Paw Eye	16848	1	5
+Bank5-Slot6	A Split Paw	16849	1	5
+Bank5-Slot7	Split Paw Tooth Necklace	14708	1	5
+Bank5-Slot8	Empty	0	0	0
+Bank6	Large Sewing Kit	17880	1	8
+Bank6-Slot1	Lumberjack's Cap	11542	1	5
+Bank6-Slot2	Savant's Cap	1302	1	5
+Bank6-Slot3	Netted Kelp Cap	31500	1	5
+Bank6-Slot4	Opalline Earring	10407	1	5
+Bank6-Slot5	Master Wu's Trance Stick	6619	1	5
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank7	Large Sewing Kit	17880	1	8
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Spell: Upheaval	19205	1	5
+Bank7-Slot3	Spell: Divine Light	19208	1	5
+Bank7-Slot4	Spell: Heroism	19204	1	5
+Bank7-Slot5	Spell: Heroic Bond	19224	1	5
+Bank7-Slot6	Spell: Reckoning	19212	1	5
+Bank7-Slot7	Spell: Annul Magic	19207	1	5
+Bank7-Slot8	Spell: Symbol of Marzin	19211	1	5
+Bank8	Large Sewing Kit	17880	1	8
+Bank8-Slot1	Spell: Bulwark of Faith	19219	1	5
+Bank8-Slot2	Spell: Celestial Elixir	19226	1	5
+Bank8-Slot3	Spell: Antidote	19223	1	5
+Bank8-Slot4	Spell: Banish Summoned	15116	1	5
+Bank8-Slot5	Spell: Exile Undead	19214	1	5
+Bank8-Slot6	Spell: Reviviscence	19217	1	5
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Large Sewing Kit	17880	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Large Sewing Kit	17880	1	8
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0

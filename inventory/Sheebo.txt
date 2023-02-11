@@ -1,0 +1,150 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of Essence	14714	1	5
+Head	Sarnak Headguard	4581	1	5
+Face	Velium War Mask	31204	1	5
+Ear	Blue Diamond Electrum Earring	30365	1	5
+Neck	Idol of Woven Grass	28075	1	5
+Shoulders	Weight of the Gods	2924	1	5
+Arms	Donal's Vambraces of Mourning	2683	1	5
+Back	Lodizal Shell Shield	22816	1	5
+Wrist	Bracers of the Reverent	4925	1	5
+Wrist	Jarsath Scale Wrist Guards	3254	1	5
+Range	Idol of the Underking	14762	1	5
+Hands	Gauntlets of the Black	30142	1	5
+Primary	DawnFire, Morning Star of Light	11648	1	5
+Secondary	Book of Obulus	14745	1	5
+Fingers	Diamond Wedding Band	29210	1	5
+Fingers	Ring of Shadows	10357	1	5
+Chest	Chestplate of the Constant	4926	1	5
+Legs	Jarsath Scale Leggings	3256	1	5
+Feet	Coldain Skin Boots	25027	1	5
+Waist	Crystalline Belt	25613	1	5
+Ammo	Empty	0	0	0
+General1	Large Sewing Kit	17880	1	8
+General1-Slot1	Rune of Crippling	11783	1	5
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Crystallized Pumice	14524	1	5
+General1-Slot4	Crystallized Pumice	14524	1	5
+General1-Slot5	Crystallized Pumice	14524	1	5
+General1-Slot6	Crimson Potion	14518	1	5
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Jasper	10020	6	5
+General2	Lionhide Backpack	17350	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Peridot	10028	8	5
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Key to Charasis	2667	1	5
+General4	Backpack	17005	1	8
+General4-Slot1	Larrikan's Mask	2736	1	5
+General4-Slot2	Fishbone Earring	10313	1	5
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Crystallized Pumice	14524	1	5
+General4-Slot7	Rune of Concussion	11763	1	5
+General4-Slot8	Empty	0	0	0
+General5	Backpack	17005	1	8
+General5-Slot1	Spell: Defoliation	19296	1	5
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Torch	13002	1	5
+General5-Slot6	Bone Chips	13073	6	5
+General5-Slot7	Nilitim's Grimoire Pg. 400	11732	1	5
+General5-Slot8	Jasper	10020	20	5
+General6	Journeyman's Boots	2300	1	5
+General7	Backpack	17005	1	8
+General7-Slot1	Slime Coated Harpoon	7223	1	5
+General7-Slot2	Peridot	10028	2	5
+General7-Slot3	Trakanon Idol	1810	1	5
+General7-Slot4	Bone Chips	13073	20	5
+General7-Slot5	Crystalline Silk	25306	3	5
+General7-Slot6	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot7	Spell: Yaulp IV	19209	1	5
+General7-Slot8	Bone Chips	13073	20	5
+General8	Backpack	17005	1	8
+General8-Slot1	Empty	0	0	0
+General8-Slot2	Water Flask	13006	12	5
+General8-Slot3	Empty	0	0	0
+General8-Slot4	Empty	0	0	0
+General8-Slot5	Ball of Velium	25307	1	5
+General8-Slot6	Bloodstone	10019	10	5
+General8-Slot7	Spell: Aegolism	30447	1	5
+General8-Slot8	Spell: Celestial Elixir	19226	1	5
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Crystallized Pumice	14524	1	5
+Bank1-Slot2	Nilitim's Grimoire Pg. 36	11723	1	5
+Bank1-Slot3	Bone Chips	13073	20	5
+Bank1-Slot4	Nilitim's Grimoire Pg. 352	11729	2	5
+Bank1-Slot5	Strathbone Shell Shield	9028	1	5
+Bank1-Slot6	Words of Odus	11868	1	5
+Bank1-Slot7	Battleworn Canteen	2409	1	5
+Bank1-Slot8	Nilitim's Grimoire Pg. 115	11724	1	5
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Small Bronze Greaves	4223	1	5
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Circlet of Cerulean Smoke	25052	1	5
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Basilisk Bracer	1264	1	5
+Bank2-Slot6	Spell: Yaulp IV	19209	1	5
+Bank2-Slot7	Boots of the Reliant	4921	1	5
+Bank2-Slot8	Silversilk Leggings	1366	1	5
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Chipped Black Marble	25819	1	5
+Bank3-Slot2	Crystalline Silk	25306	7	5
+Bank3-Slot3	Giant Warrior Helmet	29062	1	5
+Bank3-Slot4	Throwing Boulder	8013	2	5
+Bank3-Slot5	Turquoise Eyepatch	1411	1	5
+Bank3-Slot6	Spell: Tears of Druzzil	19319	1	5
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Spell: Blast of Poison	30429	1	5
+Bank4	Belt Pouch	17002	1	4
+Bank4-Slot1	A tattered note	18714	1	5
+Bank4-Slot2	Quartz Crystal	10322	1	5
+Bank4-Slot3	Crushed Opal	25836	1	5
+Bank4-Slot4	Nilitim's Grimoire Pg. 400	11732	1	5
+Bank5	Tome of Order and Discord	18700	1	5
+Bank6	Backpack	17005	1	8
+Bank6-Slot1	Savant's Cap	1302	1	5
+Bank6-Slot2	Nilitim's Grimoire Pg. 351	11728	2	5
+Bank6-Slot3	Nilitim's Grimoire Pg. 379	11731	1	5
+Bank6-Slot4	Nilitim's Grimoire Pg. 35	11722	1	5
+Bank6-Slot5	Nilitim's Grimoire Pg. 378	11730	1	5
+Bank6-Slot6	Nilitim's Grimoire Pg. 301	11727	1	5
+Bank6-Slot7	Nilitim's Grimoire Pg. 300	11726	1	5
+Bank6-Slot8	Nilitim's Grimoire Pg. 450	11737	1	5
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Poison Wind Censer	6205	1	5
+Bank7-Slot2	Nilitim's Grimoire Pg. 449	11736	1	5
+Bank7-Slot3	Fire Giant Toes	16541	1	5
+Bank7-Slot4	Sapphire	10034	1	5
+Bank7-Slot5	Diamond	10037	1	5
+Bank7-Slot6	Flawed Chrysolite	25820	1	5
+Bank7-Slot7	Crushbone Belt	13318	1	5
+Bank7-Slot8	Crushbone Belt	13318	1	5
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Gnoll Fang	13915	16	5
+Bank8-Slot2	Earring of Disease Reflection	10302	1	5
+Bank8-Slot3	Bat Wing	13068	3	5
+Bank8-Slot4	Cloak of the Ice Bear	2400	1	5
+Bank8-Slot5	Thick Caustic Fluid	1595	1	5
+Bank8-Slot6	Gauntlets of the Ardent	4922	1	5
+Bank8-Slot7	Kunzar Ku'juch	5159	1	5
+Bank8-Slot8	Charred Guardian Shield	9311	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

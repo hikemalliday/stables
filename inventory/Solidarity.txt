@@ -1,0 +1,176 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of Essence	14714	1	5
+Head	Crown of King Tranix	4504	1	5
+Face	Eyepatch of Plunder	30008	1	5
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Neck	Ayillish's Talisman	27249	1	5
+Shoulders	Strength of the Elements	24070	1	5
+Arms	Haze Panther Sleeves	24855	1	5
+Back	Shroud of the Dar Brood	27261	1	5
+Wrist	Bracer of Benevolence	29686	1	5
+Wrist	Bracer of Benevolence	29686	1	5
+Range	Priceless Velium Reinforced Bow	27306	1	5
+Hands	Coldain Skin Gloves	25026	1	5
+Primary	Ragebringer	1664	1	5
+Secondary	Primal Velium Warsword	27328	1	5
+Fingers	Velium Jacinth Wedding Ring	30349	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Chest	Fungus Covered Scale Tunic	2735	1	5
+Legs	Gladiator's Chain Leggings	25185	1	5
+Feet	Grey Suede Boots	24616	1	5
+Waist	Ravenscale Belt	3167	1	5
+Ammo	Flight Arrow	8322	20	5
+General1	Tome of Endless Enchantments	17500	1	10
+General1-Slot1	Sealed Poison Vial	16967	12	5
+General1-Slot2	Creeper Ivy	16971	12	5
+General1-Slot3	Ethereal Suspension	16975	12	5
+General1-Slot4	Creeper Ivy	16971	12	5
+General1-Slot5	10 Dose Ethira's Poison Antidote	14542	1	5
+General1-Slot6	10 Dose Ethira's Poison Antidote	14542	1	5
+General1-Slot7	10 Dose Kithar's Disease Treatment	14543	1	5
+General1-Slot8	10 Dose Kithar's Disease Treatment	14543	1	5
+General1-Slot9	10 Dose Blood of the Wolf	14534	1	5
+General1-Slot10	10 Dose Potion of Stinging Wort	14468	1	5
+General2	Elemental Grimoire	17502	1	10
+General2-Slot1	Flight Arrow	8322	20	5
+General2-Slot2	Flight Arrow	8322	20	5
+General2-Slot3	Flight Arrow	8322	20	5
+General2-Slot4	Flight Arrow	8322	20	5
+General2-Slot5	Flight Arrow	8322	20	5
+General2-Slot6	Flight Arrow	8322	20	5
+General2-Slot7	Flight Arrow	8322	20	5
+General2-Slot8	Flight Arrow	8322	20	5
+General2-Slot9	Flight Arrow	8322	20	5
+General2-Slot10	Flight Arrow	8322	20	5
+General3	Pegasus Feather Cloak	2463	1	5
+General4	Crystallized Pumice	14524	1	5
+General5	Tome of Endless Enchantments	17500	1	10
+General5-Slot1	Muffin	13014	7	5
+General5-Slot2	Muffin	13014	20	5
+General5-Slot3	Shrine Key	28602	1	5
+General5-Slot4	Sleeper's Key	27265	1	5
+General5-Slot5	Key of Veeshan	1817	1	5
+General5-Slot6	Trakanon Idol	1810	1	5
+General5-Slot7	Tooth of the Cobalt Scar	31602	1	5
+General5-Slot8	Mechanized Lockpicks	16865	1	5
+General5-Slot9	Frosted Ice Spike	5843	1	5
+General5-Slot10	Nightfall	24622	1	5
+General6	Elemental Grimoire	17502	1	10
+General6-Slot1	Crystallized Pumice	14524	1	5
+General6-Slot2	Crystallized Pumice	14524	1	5
+General6-Slot3	Crystallized Pumice	14524	1	5
+General6-Slot4	Lizard Blood Potion	1806	1	5
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General6-Slot9	Empty	0	0	0
+General6-Slot10	Empty	0	0	0
+General7	Mortar and Pestle	17904	1	6
+General7-Slot1	Spirit of Sloth	14091	1	5
+General7-Slot2	Spirit of Sloth	14091	1	5
+General7-Slot3	Spirit of Sloth	14091	1	5
+General7-Slot4	Spirit of Sloth	14091	1	5
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General8	Bag of the Tinkerers	17403	1	10
+General8-Slot1	Mask of Deception	2472	1	5
+General8-Slot2	Green Flower of Functionality	6816	1	5
+General8-Slot3	Journeyman's Boots	2300	1	5
+General8-Slot4	White Flower of Functionality	6815	1	5
+General8-Slot5	Bracer of the Hidden	11911	1	5
+General8-Slot6	Black Flower of Functionality	6817	1	5
+General8-Slot7	Worker Sledgemallet	12863	1	5
+General8-Slot8	Empty	0	0	0
+General8-Slot9	Empty	0	0	0
+General8-Slot10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Elemental Grimoire	17502	1	10
+Bank1-Slot1	Flight Arrow	8322	20	5
+Bank1-Slot2	Flight Arrow	8322	20	5
+Bank1-Slot3	Flight Arrow	8322	20	5
+Bank1-Slot4	Flight Arrow	8322	20	5
+Bank1-Slot5	Flight Arrow	8322	20	5
+Bank1-Slot6	Flight Arrow	8322	20	5
+Bank1-Slot7	Flight Arrow	8322	20	5
+Bank1-Slot8	Flight Arrow	8322	20	5
+Bank1-Slot9	Flight Arrow	8322	20	5
+Bank1-Slot10	Flight Arrow	8322	20	5
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Flight Arrow	8322	20	5
+Bank2-Slot2	Flight Arrow	8322	20	5
+Bank2-Slot3	Flight Arrow	8322	20	5
+Bank2-Slot4	Flight Arrow	8322	20	5
+Bank2-Slot5	Flight Arrow	8322	20	5
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Tome of Endless Enchantments	17500	1	10
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Sealed Poison Vial	16967	6	5
+Bank3-Slot3	Ethereal Suspension	16975	16	5
+Bank3-Slot4	Sealed Poison Vial	16967	20	5
+Bank3-Slot5	Ethereal Suspension	16975	20	5
+Bank3-Slot6	Sealed Poison Vial	16967	20	5
+Bank3-Slot7	Ethereal Suspension	16975	20	5
+Bank3-Slot8	Sealed Poison Vial	16967	20	5
+Bank3-Slot9	Ethereal Suspension	16975	20	5
+Bank3-Slot10	Sealed Poison Vial	16967	20	5
+Bank4	Elemental Grimoire	17502	1	10
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Creeper Ivy	16971	12	5
+Bank4-Slot4	Creeper Ivy	16971	20	5
+Bank4-Slot5	Creeper Ivy	16971	20	5
+Bank4-Slot6	Creeper Ivy	16971	20	5
+Bank4-Slot7	Creeper Ivy	16971	20	5
+Bank4-Slot8	Creeper Ivy	16971	20	5
+Bank4-Slot9	Creeper Ivy	16971	20	5
+Bank4-Slot10	Creeper Ivy	16971	20	5
+Bank5	Tome of Endless Enchantments	17500	1	10
+Bank5-Slot1	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot2	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot3	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot4	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot5	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot6	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot7	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot8	10 Dose Blood of the Wolf	14534	1	5
+Bank5-Slot9	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank5-Slot10	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank6	Elemental Grimoire	17502	1	10
+Bank6-Slot1	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank6-Slot2	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank6-Slot3	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Diamond	10037	2	5
+Bank6-Slot6	Dire Wolf-Hide Cloak	25019	1	5
+Bank6-Slot7	Bone Chips	13073	10	5
+Bank6-Slot8	Key to Charasis	2667	1	5
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Circlet of the Falinkan	1867	1	5
+Bank7-Slot3	Tainted Darksteel Breastplate	29001	1	5
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Declaration of War	1567	1	5
+Bank7-Slot6	Dirk of the Dain	1465	1	5
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank8	Deck of Spontaneous Generation	17054	1	4
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

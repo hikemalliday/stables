@@ -44,13 +44,8 @@ app.post('/newcharacter', async (req, res) =>
             console.log('added');
             res.send(JSON.stringify('success'))
         }
-    })
-    // This next code imports the '.bat' file as a string, and appends a new line to it
+    });
     
-    let newBatLine = `copy C:\\r99\\${name} C:\\users\\mikeg\\desktop\\projects\\mikesprojects\\stables\\inventory\\${name}.txt /y `
-    let batString = fs.readFileSync('inventorycopy.bat', "utf8");
-    batString = batString + '\n' + newBatLine;
-    fs.writeFileSync('inventorycopy.bat', batString);
     
 })
 

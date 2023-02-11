@@ -1,0 +1,55 @@
+54	Enstill
+9	Flash of Light
+30	Stun
+58	Nullify Magic
+49	Holy Might
+56	Yaulp III
+52	Force
+60	Divine Strength
+57	Superior Healing
+59	Celestial Cleansing
+60	Resolution
+58	Symbol of Naltron
+51	Pacify
+22	Invisibility versus Undead
+55	Divine Aura
+59	Resurrection
+56	Counteract Disease
+52	Frenzied Strength
+39	Counteract Poison
+55	Divine Favor
+39	Endure Disease
+22	Endure Poison
+60	Shield of Words
+55	Wave of Healing
+22	Invigor
+30	Healing
+22	Halo of Light
+22	Center
+49	Revive
+39	Greater Healing
+39	Divine Purpose
+49	Calm
+30	Spirit Armor
+15	Ward Undead
+54	Expel Undead
+15	Cure Disease
+9	Spook the Dead
+9	Cure Poison
+49	Symbol of Pinzarn
+9	True North
+39	Yaulp II
+49	Dismiss Undead
+30	Soothe
+30	Symbol of Transal
+39	Symbol of Ryltan
+39	Cancel Magic
+22	Root
+9	Minor Healing
+30	Expulse Undead
+49	Armor of Faith
+49	Valor
+15	Light Healing
+15	Hammer of Wrath
+22	Reckless Strength
+9	Courage

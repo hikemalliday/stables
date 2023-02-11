@@ -1,0 +1,170 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Head	Scaled Mystic Helm	4990	1	5
+Face	Crystal Spider Eyes	25282	1	5
+Ear	Empty	0	0	0
+Neck	Ayillish's Talisman	27249	1	5
+Shoulders	Wurm Scale Coat	11976	1	5
+Arms	Scaled Hierophant Vambraces	5184	1	5
+Back	Cloak of Scales	1546	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Wrist	Supple Scale Armband	1618	1	5
+Range	Thunder Runed War Spear	31205	1	5
+Hands	Empty	0	0	0
+Primary	Spear of Fate	10651	1	5
+Secondary	Sarnak Battle Shield	9205	1	5
+Fingers	Knotted Turtlebone Ring	30070	1	5
+Fingers	Velium Diamond Wedding Ring	30353	1	5
+Chest	Scaled Hierophant Breastplate	5187	1	5
+Legs	Scaled Hierophant Greaves	5185	1	5
+Feet	Black Fur Boots	1678	1	5
+Waist	Sash of the Dragonborn	1623	1	5
+Ammo	Empty	0	0	0
+General1	Bearskin Potion Bag	17811	1	10
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Words of Abatement	16037	1	5
+General1-Slot3	Rune of Banding	11764	1	5
+General1-Slot4	Words of Descrying	11852	1	5
+General1-Slot5	Shrine Key	28602	1	5
+General1-Slot6	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot7	Trakanon Idol	1810	1	5
+General1-Slot8	Ivory Imbued Collar	3099	1	5
+General1-Slot9	Empty	0	0	0
+General1-Slot10	Empty	0	0	0
+General2	Large Soiled Bag	17404	1	10
+General2-Slot1	Tears of Prexus	11806	1	5
+General2-Slot2	Salil's Writ Pg. 288	11718	1	5
+General2-Slot3	Spell: Chilling Embrace	30412	1	5
+General2-Slot4	Key of Veeshan	1817	1	5
+General2-Slot5	Spell: Turning of the Unnatural	30443	1	5
+General2-Slot6	Frosty key	20035	1	5
+General2-Slot7	Bone finger key	20037	1	5
+General2-Slot8	Magnetic Dirk of Distraction	29202	1	5
+General2-Slot9	Breath of Ro	11808	1	5
+General2-Slot10	Bat Wing	13068	3	5
+General3	Hand Made Backpack	17969	1	10
+General3-Slot1	Throwing Boulder	8013	3	5
+General3-Slot2	Rod of Health	10378	1	5
+General3-Slot3	Tserrina's Key	20039	1	5
+General3-Slot4	Crystal Key	20033	1	5
+General3-Slot5	Small rusty key	20036	1	5
+General3-Slot6	Elderberry	14226	8	5
+General3-Slot7	Three Toothed Key	20034	1	5
+General3-Slot8	Ceremonial Wedding Sword	29211	1	5
+General3-Slot9	Salil's Writ Pg. 174	11714	1	5
+General3-Slot10	Whip of Strangulation	14734	1	5
+General4	Deluxe Toolbox	17877	1	10
+General4-Slot1	Echinacea	14247	8	5
+General4-Slot2	Lady's Mantle	14249	11	5
+General4-Slot3	Hyssop	14248	3	5
+General4-Slot4	Fennel	14234	17	5
+General4-Slot5	Sumbul	14237	2	5
+General4-Slot6	Celandine Herb	14238	2	5
+General4-Slot7	Fenugreek	14217	10	5
+General4-Slot8	Birthwort	14216	10	5
+General4-Slot9	Wolf Blood	14227	10	5
+General4-Slot10	Words of Collection (Caza)	11864	1	5
+General5	Box of Nil Space	17082	1	10
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Worker Sledgemallet	12863	1	5
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Key to Charasis	2667	1	5
+General5-Slot6	Crimson Potion	14518	1	5
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Giant Warrior Helmet	29062	1	5
+General5-Slot9	Ring of Shadows	10357	1	5
+General5-Slot10	Empty	0	0	0
+General6	Medicine Bag	17901	1	8
+General6-Slot1	Loam Encrusted Robe	1644	1	5
+General6-Slot2	Shield of Rainbow Hues	11644	1	5
+General6-Slot3	A Blue Knight	24560	1	5
+General6-Slot4	Essence of Rathe	11805	1	5
+General6-Slot5	Salil's Writ Pg. 153	11713	1	5
+General6-Slot6	Empty	0	0	0
+General6-Slot7	The Scent of Marr	11802	1	5
+General6-Slot8	Hammer of the Dragonborn	6670	1	5
+General7	Pegasus Feather Cloak	2463	1	5
+General8	Spyglass	16868	1	5
+Held	Empty	0	0	0
+Bank1	Rhinohide Backpack	17989	1	8
+Bank1-Slot1	Greyish Bone Chips	12943	1	5
+Bank1-Slot2	Ulthork Meat Pie	1427	1	5
+Bank1-Slot3	Mountain Death Belt	1194	1	5
+Bank1-Slot4	Snow Bunny Stew	1426	2	5
+Bank1-Slot5	Spicy Ulthork Meat	1453	1	5
+Bank1-Slot6	Tundrabear Sandwich	1425	2	5
+Bank1-Slot7	Frost Giant Steak	19989	5	5
+Bank1-Slot8	Snow Griffin Souffle	1428	1	5
+Bank2	Lionhide Backpack	17350	1	8
+Bank2-Slot1	Ring of Shadows	10357	1	5
+Bank2-Slot2	Ring of Shadows	10357	1	5
+Bank2-Slot3	Bear Sandwich	13472	3	5
+Bank2-Slot4	Skyash Bile	16819	13	5
+Bank2-Slot5	Tome of Order and Discord	18700	1	5
+Bank2-Slot6	Giant Warrior Helmet	29062	1	5
+Bank2-Slot7	Pie Tin	13438	1	5
+Bank2-Slot8	Clump of Dough	13090	3	5
+Bank3	Large Sewing Kit	17880	1	8
+Bank3-Slot1	Dragon Meat	22807	1	5
+Bank3-Slot2	Giant Warrior Helmet	29062	1	5
+Bank3-Slot3	Spell: Dementia	19384	1	5
+Bank3-Slot4	Rune of Frost	11780	2	5
+Bank3-Slot5	Spear of Mortification	7241	1	5
+Bank3-Slot6	Ant's Potion	14441	1	5
+Bank3-Slot7	Stone of Morid	14720	1	5
+Bank3-Slot8	Giant Warrior Helmet	29062	1	5
+Bank4	Mixing Bowl	17906	1	4
+Bank4-Slot1	Leif's Napkin	1415	1	5
+Bank4-Slot2	Mt. Death Mineral Salts	16972	20	5
+Bank4-Slot3	Starmetal Ore	1869	1	5
+Bank4-Slot4	Mt. Death Mineral Salts	16972	6	5
+Bank5	Large Sewing Kit	17880	1	8
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Spell: Wind of Tishani	19387	1	5
+Bank5-Slot3	Green Goblin Skin	22135	15	5
+Bank5-Slot4	Spell: Cripple	19269	1	5
+Bank5-Slot5	Dragoon Dirk	13942	1	5
+Bank5-Slot6	Cloth Coldain Prayer Shawl	1176	1	5
+Bank5-Slot7	Deadwood Stave	6623	1	5
+Bank5-Slot8	Blade of Fiery Lamentations	7240	1	5
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Heavy Dragonskin Mask	27136	1	5
+Bank6-Slot2	Crystallized Pumice	14524	1	5
+Bank6-Slot3	Spell: Augment	19416	1	5
+Bank6-Slot4	Spell: Winds of Gelid	19343	1	5
+Bank6-Slot5	Wurm Meat	22809	4	5
+Bank6-Slot6	Spell: Tumultuous Strength	30428	1	5
+Bank6-Slot7	Smokey Quartz Dagger	7231	1	5
+Bank6-Slot8	First Half of Vin`Pekir's Tome	31445	1	5
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Dusty Ransacker's Pack	17081	1	8
+Bank7-Slot1	Skyash Bile	16819	11	5
+Bank7-Slot2	Book of the Rings	14718	1	5
+Bank7-Slot3	Green Goblin Skin	22135	20	5
+Bank7-Slot4	Spell: Cripple	19269	1	5
+Bank7-Slot5	Green Goblin Skin	22135	20	5
+Bank7-Slot6	Sporestrand Shield	1843	1	5
+Bank7-Slot7	Deadwood Stave	6623	1	5
+Bank7-Slot8	Auburn Tessera	20934	1	5
+Bank8	Large Sewing Kit	17880	1	8
+Bank8-Slot1	Green Goblin Skin	22135	20	5
+Bank8-Slot2	Green Goblin Skin	22135	20	5
+Bank8-Slot3	Green Goblin Skin	22135	20	5
+Bank8-Slot4	Green Goblin Skin	22135	20	5
+Bank8-Slot5	Mt. Death Mineral Salts	16972	20	5
+Bank8-Slot6	Mt. Death Mineral Salts	16972	20	5
+Bank8-Slot7	Green Goblin Skin	22135	20	5
+Bank8-Slot8	Green Goblin Skin	22135	20	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

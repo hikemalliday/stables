@@ -1,0 +1,162 @@
+56	Paralyzing Earth
+51	Turgur's Insects
+58	Tigir's Insects
+53	Cripple
+39	Blinding Luminance
+60	Malo
+57	Malosini
+44	Blast of Poison
+39	Gale of Poison
+54	Ice Strike
+39	Insidious Malady
+39	Venom of the Snake
+59	Pox of Bertoxxulous
+56	Bane of Nife
+54	Riotous Health
+53	Deliriously Nimble
+57	Manicial Strength
+58	Mortal Deftness
+60	Focus of Spirit
+60	Primal Avatar
+60	Avatar
+53	Talisman of Shadoo
+51	Talisman of Jasinth
+44	Resist Magic
+24	Resist Cold
+39	Resist Poison
+29	Resist Fire
+34	Resist Disease
+29	Counteract Poison
+49	Abolish Disease
+9	Cure Blindness
+52	Regrowth
+60	Torpor
+55	Chloroblast
+5	Gate
+55	Annul Magic
+19	Cancel Magic
+44	Nullify Magic
+14	Bind Affinity
+9	Spirit of Wolf
+24	Spirit of Cheetah
+52	Spirit of Scale
+24	Scale of Wolf
+56	Celerity
+55	Spirit of the Howler
+50	Spirit Quickening
+55	Form of the Great Bear
+19	Shrink
+56	Acumen
+29	Invisibility
+14	Enduring Breath
+14	Levitate
+24	Cannibalize
+39	Cannibalize II
+54	Cannibalize III
+58	Cannibalize IV
+14	Root
+34	Enstill
+51	Immobilize
+19	Malise
+34	Malisement
+49	Malosi
+34	Winter's Roar
+44	Blizzard Blast
+1	Flash of Light
+49	Envenomed Bolt
+24	Poison Storm
+34	Scourge
+49	Plague
+29	Tagar's Insects
+39	Togor's Insects
+29	Listless Power
+44	Incapacitate
+34	Charm Animals
+19	Healing
+29	Greater Healing
+24	Regeneration
+39	Chloroplast
+24	Counteract Disease
+51	Superior Healing
+14	Burst of Strength
+29	Raging Strength
+39	Furious Strength
+49	Strength
+58	Talisman of the Rhino
+29	Rising Dexterity
+39	Deftness
+49	Dexterity
+59	Talisman of the Raptor
+34	Nimble
+44	Agility
+57	Talisman of the Cat
+34	Health
+44	Stamina
+34	Fury
+49	Rage
+39	Glamour
+49	Charisma
+29	Quickness
+44	Alacrity
+49	Frenzied Spirit
+9	Spirit Sight
+55	Talisman of Kragg
+44	Talisman of Altuna
+34	Talisman of Tnarg
+34	Shifting Shield
+44	Guardian
+1	Minor Healing
+14	Disempower
+9	Light Healing
+29	Befriend Animal
+1	Burst of Flame
+5	Frost Rift
+19	Affliction
+9	Tainted Breath
+19	Infectious Cloud
+24	Envenomed Breath
+14	Spirit Strike
+24	Frost Strike
+5	Fleeting Fury
+14	Spirit of Snake
+19	Frenzy
+29	Alluring Aura
+5	Feet like Cat
+1	Strengthen
+19	Spirit of Cat
+19	Spirit Strength
+1	Dexterous Aura
+9	Spirit of Bear
+24	Spirit of Monkey
+24	Spirit of Ox
+1	Inner Fire
+5	Scale Skin
+14	Turtle Skin
+24	Protect
+5	Endure Fire
+1	Endure Cold
+14	Endure Poison
+19	Endure Magic
+9	Endure Disease
+9	Summon Food
+34	Companion Spirit
+5	Summon Drink
+39	Vigilant Spirit
+5	Spirit Pouch
+44	Guardian Spirit
+5	Drowsy
+19	Insidious Fever
+14	Walking Sleep
+5	Sicken
+24	Invigor
+1	Cure Disease
+5	Cure Poison
+39	Extinguish Fatigue
+14	Invisibility versus Animals
+19	Vision
+9	Sense Animals
+24	Creeping Vision
+1	True North
+29	Ultravision
+9	Serpent Sight
+39	Assiduous Vision

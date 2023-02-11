@@ -1,0 +1,186 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Hammered Golden Loop	5705	1	5
+Head	Crown of Rile	10913	1	5
+Face	Silver Mask of the Slayer	31464	1	5
+Ear	Living Thunder Earring	25045	1	5
+Neck	Silver Disk	31347	1	5
+Shoulders	Strength of the Elements	24070	1	5
+Arms	Haze Panther Sleeves	24855	1	5
+Back	Cloak of the Falling Stars	25207	1	5
+Wrist	Silver Bracelet of Speed	31461	1	5
+Wrist	Bracer of the Hidden	11911	1	5
+Range	Priceless Velium Reinforced Bow	27306	1	5
+Hands	Gloves of Stability	31402	1	5
+Primary	Mrylokar's Dagger of Vengeance	1819	1	5
+Secondary	Ragebringer	1664	1	5
+Fingers	Reaper's Ring	31319	1	5
+Fingers	Velium Coldain Insignia Ring	30164	1	5
+Chest	Fungus Covered Scale Tunic	2735	1	5
+Legs	Ancient Wyvern Hide Leggings	31386	1	5
+Feet	Mithril Boots	1099	1	5
+Waist	Belt of Dwarf Slaying	25858	1	5
+Ammo	Flight Arrow	8322	4	5
+General1	Darkwood Trunk	17703	1	10
+General1-Slot1	Trakanon Idol	1810	1	5
+General1-Slot2	Key to Charasis	2667	1	5
+General1-Slot3	Shrine Key	28602	1	5
+General1-Slot4	Sleeper's Key	27265	1	5
+General1-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot6	Earring of Essence	14714	1	5
+General1-Slot7	Mask of Deception	2472	1	5
+General1-Slot8	Bracer of Benevolence	29686	1	5
+General1-Slot9	Cap of the Insubstantial	2474	1	5
+General1-Slot10	Mrylokar's Breastplate	4551	1	5
+General2	Box of Nil Space	17082	1	10
+General2-Slot1	Worker Sledgemallet	12863	1	5
+General2-Slot2	10 Dose Ant's Potion	14536	1	5
+General2-Slot3	Spell: Manastorm	19370	1	5
+General2-Slot4	10 Dose Ethira's Poison Antidote	14542	1	5
+General2-Slot5	Crushed Emerald	25835	1	5
+General2-Slot6	10 Dose Kithar's Disease Treatment	14543	1	5
+General2-Slot7	Empty	0	0	0
+General2-Slot8	10 Dose Blood of the Wolf	14534	1	5
+General2-Slot9	Empty	0	0	0
+General2-Slot10	Spirit of Sloth	14091	1	5
+General3	Fleeting Quiver	1844	1	6
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Flight Arrow	8322	9	5
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Flight Arrow	8322	20	5
+General3-Slot5	Flight Arrow	8322	20	5
+General3-Slot6	Flight Arrow	8322	20	5
+General4	Amulet of Necropotence	11646	1	5
+General5	Light Burlap Sack	17353	1	8
+General5-Slot1	Pegasus Feather Cloak	2463	1	5
+General5-Slot2	Black Flower of Functionality	6817	1	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Kromzek Surveyor Scope	30221	1	5
+General5-Slot5	Golem Metal Wand	14313	1	5
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Journeyman's Boots	2300	1	5
+General5-Slot8	Empty	0	0	0
+General6	Fletching Kit	17910	1	8
+General6-Slot1	Mechanized Lockpicks	16865	1	5
+General6-Slot2	Mechanized Lockpicks	16865	1	5
+General6-Slot3	Leatherfoot Raider Skullcap	1805	1	5
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Nathsar Vambraces	5718	1	5
+General6-Slot6	Eyepatch of Plunder	30008	1	5
+General6-Slot7	Belt of the Great Turtle	30072	1	5
+General6-Slot8	Wurm Scale Coat	11976	1	5
+General7	Bag of the Tinkerers	17403	1	10
+General7-Slot1	Locustlure	7214	1	5
+General7-Slot2	Fishbone Earring	10313	1	5
+General7-Slot3	Serrated Bone Dirk	7502	1	5
+General7-Slot4	Sword of Skyfire	5151	1	5
+General7-Slot5	Key of Veeshan	1817	1	5
+General7-Slot6	Club of the Ice Ocean	30071	1	5
+General7-Slot7	Primal Velium Warsword	27328	1	5
+General7-Slot8	Journeyman's Walking Stick	6618	1	5
+General7-Slot9	Claw of Lightning	31379	1	5
+General7-Slot10	Razor Fang of Xygoz	24649	1	5
+General8	Deluxe Toolbox	17877	1	10
+General8-Slot1	Earthshaker	5667	1	5
+General8-Slot2	10 Dose Blood of the Wolf	14534	1	5
+General8-Slot3	Spirit of Sloth	14091	1	5
+General8-Slot4	10 Dose Kithar's Disease Treatment	14543	1	5
+General8-Slot5	Crystallized Pumice	14524	1	5
+General8-Slot6	10 Dose Ethira's Poison Antidote	14542	1	5
+General8-Slot7	Crystallized Pumice	14524	1	5
+General8-Slot8	Crystallized Pumice	14524	1	5
+General8-Slot9	Crystallized Pumice	14524	1	5
+General8-Slot10	Crystallized Pumice	14524	1	5
+Held	Empty	0	0	0
+Bank1	Deluxe Toolbox	17877	1	10
+Bank1-Slot1	Spell: Vocarate: Water	19362	1	5
+Bank1-Slot2	Spell: Evacuate	19336	1	5
+Bank1-Slot3	Spell: Translocate: Group	19474	1	5
+Bank1-Slot4	Spell: Pillar of Frost	19318	1	5
+Bank1-Slot5	Spell: Largarn`s Lamentation	19388	1	5
+Bank1-Slot6	Spell: Rage of Zomm	19417	1	5
+Bank1-Slot7	Spell: Forlorn Deeds	19395	1	5
+Bank1-Slot8	Spell: Dyzil`s Deafening Decoy	19364	1	5
+Bank1-Slot9	Spell: Arch Lich	30416	1	5
+Bank1-Slot10	Spell: Tigir`s Insects	19285	1	5
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	A tattered note	18745	1	5
+Bank2-Slot2	Obsidian Shard	7404	1	5
+Bank2-Slot3	Spell: Defoliation	19296	1	5
+Bank2-Slot4	Mermaid Scale	16542	3	5
+Bank2-Slot5	Spell: Evacuate	19336	1	5
+Bank2-Slot6	Tome of Order and Discord	18700	1	5
+Bank2-Slot7	Flawed Emerald	25821	1	5
+Bank2-Slot8	Hardened Clay Bracelet	3212	1	5
+Bank2-Slot9	McVaxius` Horn of War	11607	1	5
+Bank2-Slot10	Nightmare Hide	2333	1	5
+Bank3	Deck of Spontaneous Generation	17054	1	4
+Bank3-Slot1	Bracer of Benevolence	29686	1	5
+Bank3-Slot2	Flawed Flame Opal	25823	1	5
+Bank3-Slot3	Shark Skin	13075	5	5
+Bank3-Slot4	Mechanized Lockpicks	16865	1	5
+Bank4	Deluxe Toolbox	17877	1	10
+Bank4-Slot1	Nathsar Greatsword	5629	1	5
+Bank4-Slot2	Bronze Disc	20935	1	5
+Bank4-Slot3	Drakkel Icegrinder	30240	1	5
+Bank4-Slot4	Derakor's Head	31423	1	5
+Bank4-Slot5	Black Panther Skin	22847	1	5
+Bank4-Slot6	Dark Ember	30143	1	5
+Bank4-Slot7	Trochilic's Skean	5078	1	5
+Bank4-Slot8	Giant Scalemail Gorget	25007	1	5
+Bank4-Slot9	Hero Bracers	12189	1	5
+Bank4-Slot10	Mechanized Lockpicks	16865	1	5
+Bank5	Deluxe Toolbox	17877	1	10
+Bank5-Slot1	Spiroc Wingblade	20679	1	5
+Bank5-Slot2	Ashenwood Short Spear	7308	1	5
+Bank5-Slot3	Crushed Topaz	25832	1	5
+Bank5-Slot4	Torn Enchanted Silk Pantaloons	24950	1	5
+Bank5-Slot5	Larrikan's Mask	2736	1	5
+Bank5-Slot6	Dusty Tome	14382	1	5
+Bank5-Slot7	Flawed Lava Ruby	25826	1	5
+Bank5-Slot8	Penicillin Spores	10256	1	5
+Bank5-Slot9	Spiked Collar	2304	1	5
+Bank5-Slot10	Skyash Bile	16819	5	5
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Tattered Silk Turban	24982	1	5
+Bank6-Slot2	Ancient Tarnished Chain Bracer	24911	1	5
+Bank6-Slot3	Puppet Strings	11643	1	5
+Bank6-Slot4	Mace of the Shadowed Soul	6384	1	5
+Bank6-Slot5	Crystallized Pumice	14524	1	5
+Bank6-Slot6	Flawed Flame Emerald	25824	1	5
+Bank6-Slot7	Brownie Parts	16579	2	5
+Bank6-Slot8	Jumjum Stalk	13974	5	5
+Bank6-Slot9	Flawed Sea Sapphire	25825	1	5
+Bank6-Slot10	Jaundice Gem	25815	1	5
+Bank7	Deluxe Toolbox	17877	1	10
+Bank7-Slot1	High Quality Cougarskin	30030	1	5
+Bank7-Slot2	Ravenscale Belt	3167	1	5
+Bank7-Slot3	Cane of the Tranquil	6622	1	5
+Bank7-Slot4	Crushed Nephrite	25830	1	5
+Bank7-Slot5	Spell: Enforced Reverence	19222	1	5
+Bank7-Slot6	Seahorse Scales	12999	1	5
+Bank7-Slot7	Spell: Exile Undead	19214	1	5
+Bank7-Slot8	Dirk of the Traitor	1094	1	5
+Bank7-Slot9	Guard's Keyring	20443	1	5
+Bank7-Slot10	Dragoon Dirk	13942	1	5
+Bank8	Deluxe Toolbox	17877	1	10
+Bank8-Slot1	Nevederia's Horn	31362	1	5
+Bank8-Slot2	Vyemm's Fang	31301	1	5
+Bank8-Slot3	Woven Shadow Bracer	4904	1	5
+Bank8-Slot4	Bow of the Destroyer	31335	1	5
+Bank8-Slot5	Crushed Opal	25836	1	5
+Bank8-Slot6	Batfang Headband	10108	1	5
+Bank8-Slot7	Ayillish's Talisman	27249	1	5
+Bank8-Slot8	Spell: Circle of Summer	19234	1	5
+Bank8-Slot9	Boots of the Destroyer	31336	1	5
+Bank8-Slot10	Girdle of Dark Power	31364	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

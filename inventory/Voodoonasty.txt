@@ -1,0 +1,178 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Yunnb's Earring	10912	1	5
+Head	Custom Frostreaver's Velium Crown	2610	1	5
+Face	Mask of Terror	31363	1	5
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Neck	Sabertooth Amulet	14756	1	5
+Shoulders	Wurm Scale Coat	11976	1	5
+Arms	Vambraces of Discontent	31329	1	5
+Back	Cloak of the Sky	31376	1	5
+Wrist	Wolf Caller's Bracer	31108	1	5
+Wrist	Bracelet of the Sky	31384	1	5
+Range	Iron Scroll of War	1813	1	5
+Hands	Gauntlets of Dragon Slaying	25857	1	5
+Primary	Spear of Fate	10651	1	5
+Secondary	Lodizal Shell Shield	22816	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Fingers	Ring of Winter	30506	1	5
+Chest	Wolf Caller's Breastplate	31106	1	5
+Legs	Spirit Caller's Greaves	25361	1	5
+Feet	Tvenken's Slippers of Silence	31355	1	5
+Waist	White Dragon Scale Sash	99587	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Spell: Monster Summoning III	30404	1	5
+General1-Slot2	Spell: Improved Invisibility	30406	1	5
+General1-Slot3	Runed Sea Shell	28521	1	5
+General1-Slot4	Runed Sea Shell	28521	1	5
+General1-Slot5	Shrine Key	28602	1	5
+General1-Slot6	Runed Shell Necklace	28516	1	5
+General1-Slot7	Boots of the Huntsman	30513	1	5
+General1-Slot8	Key to Charasis	2667	1	5
+General1-Slot9	Sleeper's Key	27265	1	5
+General1-Slot10	Words of Wealth: Bottom Right	9503	1	5
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Black Flower of Functionality	6817	1	5
+General2-Slot2	Green Flower of Functionality	6816	1	5
+General2-Slot3	Trakanon Idol	1810	1	5
+General2-Slot4	Key of Veeshan	1817	1	5
+General2-Slot5	Ayillish's Talisman	27249	1	5
+General2-Slot6	Spell: Ice Spear of Solist	30426	1	5
+General2-Slot7	Fungi Covered Great Staff	11058	1	5
+General2-Slot8	Tooth of the Cobalt Scar	31602	1	5
+General2-Slot9	Eye of Innoruuk	20656	1	5
+General2-Slot10	10 Dose Ant's Potion	14536	1	5
+General3	Box of Nil Space	17082	1	10
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Mithril Earring	10041	1	5
+General3-Slot3	Spear of Constriction	7205	1	5
+General3-Slot4	Brell's Keg Popper	6648	1	5
+General3-Slot5	Journeyman's Walking Stick	6618	1	5
+General3-Slot6	Sprinkler of the Spirits	31373	1	5
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Hammer of the Dragonborn	6670	1	5
+General3-Slot9	Facesmasher	99548	1	5
+General3-Slot10	Worker Sledgemallet	12863	1	5
+General4	Large Soiled Bag	17404	1	10
+General4-Slot1	Bone Chips	13073	8	5
+General4-Slot2	Phase Spider Blood	26028	1	5
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Spell: Improved Invis vs Undead	30411	1	5
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Crystallized Sulfur	16976	1	5
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Peridot	10028	1	5
+General4-Slot9	Empty	0	0	0
+General4-Slot10	Empty	0	0	0
+General5	Medicine Bag	17901	1	8
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Ancient Tarnished Plate Gauntlets	24906	1	5
+General5-Slot8	Stein of Ulissa	6363	1	5
+General6	Wenglawks Manly Purse	17049	1	8
+General6-Slot1	Storm Giant Toes	29124	1	5
+General6-Slot2	Bat Wing	13068	17	5
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Green Goblin Skin	22135	1	5
+General6-Slot5	Spyglass	16868	1	5
+General6-Slot6	Knotted Turtlebone Ring	30070	1	5
+General6-Slot7	Flawless Diamond	25814	1	5
+General6-Slot8	Spell: Improved Invisibility	30406	1	5
+General7	Black Fur Boots	1678	1	5
+General8	Pegasus Feather Cloak	2463	1	5
+Held	Empty	0	0	0
+Bank1	Deluxe Toolbox	17877	1	10
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Deck of Spontaneous Generation	17054	1	4
+Bank2-Slot1	Flayed Paebala Tunic	26018	1	5
+Bank2-Slot2	Grotesque Girdle	1556	1	5
+Bank2-Slot3	Words of Wealth: Bottom Left	9502	1	5
+Bank2-Slot4	Words of Wealth: Top Right	9501	1	5
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	A Blue Squire	24561	1	5
+Bank3-Slot2	A White Squire	24565	1	5
+Bank3-Slot3	Lodizal Shell Boots	30069	1	5
+Bank3-Slot4	Green Goblin Skin	22135	20	5
+Bank3-Slot5	Bone Chips	13073	5	5
+Bank3-Slot6	Green Goblin Skin	22135	14	5
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Gladiator's Chain Leggings	25185	1	5
+Bank3-Slot9	10 Dose Greater Null Potion	14527	1	5
+Bank3-Slot10	10 Dose Greater Null Potion	14527	1	5
+Bank4	Deluxe Toolbox	17877	1	10
+Bank4-Slot1	Runed Sea Shell	28521	1	5
+Bank4-Slot2	Runed Sea Shell	28521	1	5
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Walrus Skin Drum	28509	1	5
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Spell: Gift of Insight	30409	1	5
+Bank4-Slot7	Pliable Goo	26021	1	5
+Bank4-Slot8	Song: Composition of Ervaj	30452	1	5
+Bank4-Slot9	Burnished Wooden Stave	6353	1	5
+Bank4-Slot10	Spell: Gift of Insight	30409	1	5
+Bank5	Large Sewing Kit	17880	1	8
+Bank5-Slot1	Spider Silk	13041	20	5
+Bank5-Slot2	Spider Silk	13041	17	5
+Bank5-Slot3	Spider Silk	13041	20	5
+Bank5-Slot4	Silk Swatch	16482	3	5
+Bank5-Slot5	Spider Silk	13041	20	5
+Bank5-Slot6	Spyglass	16868	1	5
+Bank5-Slot7	Spider Silk	13041	20	5
+Bank5-Slot8	Runed Sea Shell	28521	1	5
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Ancient Leather Cap	24919	1	5
+Bank6-Slot2	Boots of the Vindicator	25043	1	5
+Bank6-Slot3	Ice Giant Toes	16540	1	5
+Bank6-Slot4	10 Dose Potion of Unlife Awareness	14545	1	5
+Bank6-Slot5	Ancient Tarnished Plate Bracelet	24904	1	5
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Ancient Tarnished Plate Boots	24903	1	5
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Jar of Honey	20708	1	5
+Bank6-Slot10	Manna Nectar	20968	1	5
+Bank7	Deluxe Toolbox	17877	1	10
+Bank7-Slot1	Howling Harpoon	7211	1	5
+Bank7-Slot2	Dirk of the Dain	1465	1	5
+Bank7-Slot3	Smoldering Cudgel	10894	1	5
+Bank7-Slot4	Staff of Battle	6637	1	5
+Bank7-Slot5	Murdrick's Plan	18098	1	5
+Bank7-Slot6	CLASS 6 Steel Hooked Arrow	8709	1	5
+Bank7-Slot7	Halfling Druid Master's Head	12807	1	5
+Bank7-Slot8	Ravenscale Mask	3162	1	5
+Bank7-Slot9	A Rabbit Foot	6883	1	5
+Bank7-Slot10	A Lucky Skunk Foot	6876	1	5
+Bank8	Deluxe Toolbox	17877	1	10
+Bank8-Slot1	Unadorned Chain Boots	24966	1	5
+Bank8-Slot2	Ancient Tarnished Chain Gauntlets	24913	1	5
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Chipped Onyx Sapphire	25827	2	5
+Bank8-Slot5	Runed Sea Shell	28521	1	5
+Bank8-Slot6	Carved Dragonbone Spear	26007	1	5
+Bank8-Slot7	Bone Chips	13073	19	5
+Bank8-Slot8	Cane of the Tranquil	6622	1	5
+Bank8-Slot9	Arrow	8005	20	5
+Bank8-Slot10	Starmetal Ore	1869	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

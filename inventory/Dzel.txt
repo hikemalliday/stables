@@ -1,0 +1,76 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Derasinel's Talisman	27245	1	5
+Shoulders	Empty	0	0	0
+Arms	Grand Master's Arm Wraps	31093	1	5
+Back	Empty	0	0	0
+Wrist	Bracer of Benevolence	29686	1	5
+Wrist	Bracer of Benevolence	29686	1	5
+Range	Empty	0	0	0
+Hands	Celestial Fists	10652	1	5
+Primary	Scepter of Mastery	25187	1	5
+Secondary	Empty	0	0	0
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Fingers	Empty	0	0	0
+Chest	Empty	0	0	0
+Legs	Empty	0	0	0
+Feet	Empty	0	0	0
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Muffin	13014	19	5
+General2	Lexicon	17903	1	10
+General2-Slot1	Shrine Key	28602	1	5
+General2-Slot2	Tooth of the Cobalt Scar	31602	1	5
+General2-Slot3	Crystallized Pumice	14524	1	5
+General2-Slot4	Crystallized Pumice	14524	1	5
+General2-Slot5	Crystallized Pumice	14524	1	5
+General2-Slot6	Crystallized Pumice	14524	1	5
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General2-Slot9	Fourth part of an Iceclad Map	30073	1	5
+General2-Slot10	Empty	0	0	0
+General3	Journeyman's Boots	2300	1	5
+General4	Pegasus Feather Cloak	2463	1	5
+General5	Muffin	13014	20	5
+General6	Empty	0	0	0
+General7	Crystallized Pumice	14524	1	5
+General8	Crystallized Pumice	14524	1	5
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Dirk of the Dain	1465	1	5
+Bank6	Medicine Bag	17901	1	8
+Bank6-Slot1	10 Dose Kilva's Skin of Flame	14548	1	5
+Bank6-Slot2	10 Dose Ant's Potion	14536	1	5
+Bank6-Slot3	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank6-Slot4	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank6-Slot5	10 Dose Ant's Potion	14536	1	5
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank6-Slot8	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank7	Medicine Bag	17901	1	8
+Bank7-Slot1	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot2	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot3	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot4	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot5	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot6	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot7	10 Dose Blood of the Wolf	14534	1	5
+Bank7-Slot8	10 Dose Blood of the Wolf	14534	1	5
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

@@ -1,0 +1,164 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Shrunken Goblin Skull Earring	10580	1	5
+Head	Circlet of the Falinkan	1867	1	5
+Face	Mask of Fall	31323	1	5
+Ear	Earring of Essence	14714	1	5
+Neck	Entariz's Talisman	27250	1	5
+Shoulders	Strength of the Elements	24070	1	5
+Arms	Netted Kelp Sleeves	31507	1	5
+Back	Shroud of Veeshan	1628	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Wrist	Bracer of the Hidden	11911	1	5
+Range	Student's Homework	29116	1	5
+Hands	Coldain Skin Gloves	25026	1	5
+Primary	Staff of the Four	14341	1	5
+Secondary	Orb of the Infinite Void	25098	1	5
+Fingers	Velium Jacinth Wedding Ring	30349	1	5
+Fingers	Coldain Hero's Insignia Ring	30369	1	5
+Chest	Solist's Robe of Invocation	24627	1	5
+Legs	Feathered Leggings	2462	1	5
+Feet	Coldain Skin Boots	25027	1	5
+Waist	Brell's Girdle	2742	1	5
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Ration	13007	10	5
+General1-Slot2	Water Flask	13006	10	5
+General1-Slot3	Ration	13007	20	5
+General1-Slot4	Water Flask	13006	20	5
+General1-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot6	Shrine Key	28602	1	5
+General1-Slot7	Trakanon Idol	1810	1	5
+General1-Slot8	Key of Veeshan	1817	1	5
+General1-Slot9	Small Portal Fragments	2093	19	5
+General1-Slot10	Small Portal Fragments	2093	20	5
+General2	Lexicon	17903	1	10
+General2-Slot1	Crystallized Pumice	14524	1	5
+General2-Slot2	Crystallized Pumice	14524	1	5
+General2-Slot3	Crystallized Pumice	14524	1	5
+General2-Slot4	Crystallized Pumice	14524	1	5
+General2-Slot5	Crystallized Pumice	14524	1	5
+General2-Slot6	Crystallized Pumice	14524	1	5
+General2-Slot7	Crystallized Pumice	14524	1	5
+General2-Slot8	Crystallized Pumice	14524	1	5
+General2-Slot9	Crystallized Pumice	14524	1	5
+General2-Slot10	Crystallized Pumice	14524	1	5
+General3	Lexicon	17903	1	10
+General3-Slot1	Crystallized Pumice	14524	1	5
+General3-Slot2	Crystallized Pumice	14524	1	5
+General3-Slot3	Crystallized Pumice	14524	1	5
+General3-Slot4	Crystallized Pumice	14524	1	5
+General3-Slot5	Crystallized Pumice	14524	1	5
+General3-Slot6	Crystallized Pumice	14524	1	5
+General3-Slot7	Crystallized Pumice	14524	1	5
+General3-Slot8	Crystallized Pumice	14524	1	5
+General3-Slot9	Crystallized Pumice	14524	1	5
+General3-Slot10	Crystallized Pumice	14524	1	5
+General4	Lexicon	17903	1	10
+General4-Slot1	Crystallized Pumice	14524	1	5
+General4-Slot2	Crystallized Pumice	14524	1	5
+General4-Slot3	Crystallized Pumice	14524	1	5
+General4-Slot4	Crystallized Pumice	14524	1	5
+General4-Slot5	Crystallized Pumice	14524	1	5
+General4-Slot6	Crystallized Pumice	14524	1	5
+General4-Slot7	Crystallized Pumice	14524	1	5
+General4-Slot8	Crystallized Pumice	14524	1	5
+General4-Slot9	Crystallized Pumice	14524	1	5
+General4-Slot10	Crystallized Pumice	14524	1	5
+General5	Bag of the Tinkerers	17403	1	10
+General5-Slot1	Black Flower of Functionality	6817	1	5
+General5-Slot2	White Flower of Functionality	6815	1	5
+General5-Slot3	Green Flower of Functionality	6816	1	5
+General5-Slot4	Velium Blue Diamond Bracelet	30299	1	5
+General5-Slot5	Golem Metal Wand	14313	1	5
+General5-Slot6	Pegasus Feather Cloak	2463	1	5
+General5-Slot7	Eye of Innoruuk	20656	1	5
+General5-Slot8	Worker Sledgemallet	12863	1	5
+General5-Slot9	Journeyman's Boots	2300	1	5
+General5-Slot10	Jasper	10020	15	5
+General6	Lexicon	17903	1	10
+General6-Slot1	Flight Arrow	8322	20	5
+General6-Slot2	Flight Arrow	8322	20	5
+General6-Slot3	Flight Arrow	8322	20	5
+General6-Slot4	Flight Arrow	8322	20	5
+General6-Slot5	Flight Arrow	8322	20	5
+General6-Slot6	Flight Arrow	8322	20	5
+General6-Slot7	Flight Arrow	8322	20	5
+General6-Slot8	Flight Arrow	8322	20	5
+General6-Slot9	Flight Arrow	8322	20	5
+General6-Slot10	Flight Arrow	8322	20	5
+General7	Bag of the Tinkerers	17403	1	10
+General7-Slot1	Crimson Potion	14518	1	5
+General7-Slot2	Crimson Potion	14518	1	5
+General7-Slot3	10 Dose Kilva's Skin of Flame	14548	1	5
+General7-Slot4	10 Dose Kithar's Disease Treatment	14543	1	5
+General7-Slot5	10 Dose Kithar's Disease Treatment	14543	1	5
+General7-Slot6	10 Dose Kithar's Disease Treatment	14543	1	5
+General7-Slot7	10 Dose Ethira's Poison Antidote	14542	1	5
+General7-Slot8	10 Dose Ethira's Poison Antidote	14542	1	5
+General7-Slot9	Bat Wing	13068	14	5
+General7-Slot10	10 Dose Blood of the Wolf	14534	1	5
+General8	Bag of the Tinkerers	17403	1	10
+General8-Slot1	Flight Arrow	8322	20	5
+General8-Slot2	Crystallized Pumice	14524	1	5
+General8-Slot3	Crystallized Pumice	14524	1	5
+General8-Slot4	Crystallized Pumice	14524	1	5
+General8-Slot5	Crystallized Pumice	14524	1	5
+General8-Slot6	Crystallized Pumice	14524	1	5
+General8-Slot7	Crystallized Pumice	14524	1	5
+General8-Slot8	Crystallized Pumice	14524	1	5
+General8-Slot9	Crystallized Pumice	14524	1	5
+General8-Slot10	Crystallized Pumice	14524	1	5
+Held	Empty	0	0	0
+Bank1	Lexicon	17903	1	10
+Bank1-Slot1	Dirk of the Dain	1465	1	5
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank1-Slot4	10 Dose Ethira's Poison Antidote	14542	1	5
+Bank1-Slot5	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank1-Slot6	10 Dose Kithar's Disease Treatment	14543	1	5
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Lexicon	17903	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	Empty	0	0	0
+Bank5-Slot10	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Deck of Spontaneous Generation	17054	1	4
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank8	Lexicon	17903	1	10
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank8-Slot9	Empty	0	0	0
+Bank8-Slot10	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
