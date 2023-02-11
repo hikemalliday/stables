@@ -24,9 +24,13 @@
   -If things are not formatted correctly, things may not function properly.
 
 -WHEN OUTPUTING INVENTORY SPELL FILES-
-  -Output Inventory files must be formatted as such: output inventory Charname 
-  -Output spellbook files must be formatted as such: output spellbook Charnamespells
-  -THESE ARE CASE SENSITIVE, so the first letter must be uppercased.
+-Commands to output inventory/spellbook files:
+  -Load into a character in game, and type: output inventory Charname
+  -Load into a character in game, and type: output spellbook Charnamespells
+  -THESE MUST BE FORMATTED AS SUCH, with the first letter of the character name capitalized, and the rest lower case. 
+
+ 
+  
 
 
 
