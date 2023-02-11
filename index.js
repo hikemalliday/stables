@@ -291,7 +291,8 @@ async function copyUi(characterName, characterClass)
     let body = 
     {  
        name: characterName ,
-       class: characterClass   
+       class: characterClass,
+       path: data[0].path   
     }
     console.log(body);
     try
