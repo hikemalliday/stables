@@ -19,7 +19,7 @@
 
 -WHEN ENTERING A NEW CHARACTER: (VERY IMPORTANT)
   -The first letter should be uppercased, because the output inventory and spellbook files are case sensitive.
-  -Class names MUST be entered and in this format, or function WILL NOT work:
+  -Class names MUST be entered and in this format, or functions WILL NOT work:
       Enchanter
       Mage
       Necromancer
