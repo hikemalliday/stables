@@ -6,6 +6,12 @@
 **HOW TO LAUNCH APP**
 -Double click on launchApp.bat from the directory folder. It should launch server and open your default browser to the correct page. If not, just type in 'localhost:5000' into your browser. That's it!
 
+**WHEN OUTPUTING INVENTORY SPELL FILES**
+-Commands to output inventory/spellbook files:
+  -Load into a character in game, and type: output inventory Charname
+  -Load into a character in game, and type: output spellbook Charnamespells
+  -THESE MUST BE FORMATTED AS SUCH, with the first letter of the character name capitalized, and the rest lower case. 
+
 
 **TIPS/QUIRKS**
 
@@ -23,11 +29,7 @@
   -The first letter should be uppercased, because the output inventory and spellbook files are case sensitive.
   -If things are not formatted correctly, things may not function properly.
 
--WHEN OUTPUTING INVENTORY SPELL FILES-
--Commands to output inventory/spellbook files:
-  -Load into a character in game, and type: output inventory Charname
-  -Load into a character in game, and type: output spellbook Charnamespells
-  -THESE MUST BE FORMATTED AS SUCH, with the first letter of the character name capitalized, and the rest lower case. 
+
 
  
   
