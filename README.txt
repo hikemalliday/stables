@@ -1,39 +1,29 @@
+-DM me anytime on discord for tech support!
+
+-Open up stables.bat and type out the dir path to the app folder:
+-EXAMPLE: cd c:\users\mikeg\desktop\projects\mikesprojects\roladex
+
+
 **TIPS/QUIRKS**
--Item/inventory queries are case sensitive, however character name queries are not (im just a bad is why)
--You need to go into express and hardcode the path to the P99 folder in some of the functions.
+-Item/inventory queries are case sensitive, however character name queries are not (im just bad is why)
+-Some buttons require a browser refresh to see the results
+-The P99 Dir requires a '/' at the end. Function will not work otherwise.
+-When entering the P99 dir, just press ENTER and it will work. There is no submit button and it may look like nothing happened. Just refresh the page, re-open the modal, and you should see the correct DIR display.
+
+-WHEN ENTERING A NEW CHARACTER:
+  -The first letter should be uppercased, because the output inventory and spellbook files are case sensitive.
+  -If things are not formatted correctly, things may not function properly.
+
+-WHEN OUTPUTING INVENTORY SPELL FILES-
+  -Output Inventory files must be formatted as such: output inventory Charname 
+  -Output spellbook files must be formatted as such: output spellbook Charnamespells
+  -THESE ARE CASE SENSITIVE, so the first letter must be uppercased.
 
 
 
 
 
---APP FLOW--
---Global Variables: 
-  -let data = null;
-  -let classListData = null;
-  -let inventoryData  = null;
-  -let inventoryObject;  Stores all of the character's intentories upon page load (object containing arrays of arrays))
-  -let inventoryObjectName = {}; -Stores an individual character (in order to query an individual characters inventory in the inventory modal)
--Upon page launch:
-  -Fires off 'getInventoryData()' and 'getCharactersAll()' 
---Event Listeners:
-  -'keyup' @ #search-input - Search bar that query's the character names on the main page. Contains an 'if' condition that re-fills the table with default data when search bar is empty.
-  -'keyup' @ #inventory-search-input - Search bar the query's the inventory items inside the character inventory modals. Contains an 'if' condition that re-fills the table with default data when search bar is empty.
-  -'click' @ 'th' - Sorts the characters in alphabetical order - it should have sorted depending on which column is clicked, but seems to only sort the character names. (Needs to be debugged)
 
---FUNCTIONS:
-  --CRUD:
-    -'getCharactersAll()' - This function fires upon page load, and it gets the entire 'characters' database, and sends it to the front end (An array of objects)
-    -'newCharacter()' - 'push()' a new character onto the local 'data' array. Upload the local 'data' variable as the 'body'. Re-write 'db.JSON' using express
-    -'editCharacter(characterName)' - Find the index of the desired character, by querying the 'data' global variable using 'findIndex()'. Take a 'characterSnapshot' of the desired object so that the new 'edits' can be compared to the snapshot. Then, 'data.splice(characterIndex, 1);. If an 'edit' field is empty, null, or undefined, it is ommited and the 'snapshot' value is used for the final 'edit' 
-      -'renderEditButton(characterName)' fires upon clicking the edit button. This way, the submit button inside the edit modal is imprinted with the correct parameter 
-    -'deleteCharacter()' - 'findIndex()' of character in the local 'data' variable, 'splice()' is out. Send up the 'body' and the newly spliced 'data' character. Re-write the 'db.JSON' file with express
 
-  --Table Building:
-    -'buildTable(data)' - Fires off on page load and on 'keyup'. Fills the table with the character infos.
-    -'buildTableInventory(data)' - Builds the inventory table modal. Fires when modal opens, as well as on each keystroke
-    -'searchTable(value, data)' - Fires upon every keystroke. Uses the '.includes()' method to query character names
-    -'searchTableInventoy(value, data)' - Fires upon every keystroke. Uses the 'includes()' method to query Items. Has an 'if' condition: 'if search bar is empty string, RETURN' 
 
-  --MISC:
-    -'listByClass()' - When the pulldown value/field 'changes' (there is an 'onchange' attribute in the html), filter the local 'data' by 'classValue' and fill the table as such.
     
