@@ -12,22 +12,38 @@
   -Load into a character in game, and type: /output spellbook Charnamespells
   -THESE MUST BE FORMATTED AS SUCH, with the first letter of the character name capitalized, and the rest lower case. 
 
-
-**TIPS/QUIRKS**
-
--Item/inventory queries are case sensitive, however character name queries are not (im just bad is why)
--Some buttons require a browser refresh to see the results
--The P99 Dir requires a '/' at the end. Function will not work otherwise.
--When entering the P99 dir, just press ENTER and it will work. There is no submit button and it may look like nothing happened. Just refresh the page, re-open the modal, and you should see the correct DIR display.
-
 -CREATING UI FILES-
   -The 'copyUi' button works by checking the characters class, then copying a UI from that premade class specific UI.
   -You must create a UI file for each class and save it in the 'classUIs' folder.
   -Just overwrite the existing files in there to maintain proper filename formatting.
 
--WHEN ENTERING A NEW CHARACTER:
+-WHEN ENTERING A NEW CHARACTER: (VERY IMPORTANT)
   -The first letter should be uppercased, because the output inventory and spellbook files are case sensitive.
+  -Class names MUST be entered and in this format, or function WILL NOT work:
+      Enchanter
+      Mage
+      Necromancer
+      Wizard
+      Cleric
+      Druid
+      Shaman
+      Bard
+      Monk
+      Ranger
+      Rogue
+      Tanks
+      Paladin
+      Shadowknight
+      Warrior
+      
   -If things are not formatted correctly, things may not function properly.
+  
+  **TIPS/QUIRKS**
+
+-Item/inventory queries are case sensitive, however character name queries are not (im just bad is why)
+-Some buttons require a browser refresh to see the results
+-The P99 Dir requires a '/' at the end. Function will not work otherwise.
+-When entering the P99 dir, just press ENTER and it will work. There is no submit button and it may look like nothing happened. Just refresh the page, re-open the modal, and you should see the correct DIR display.
 
 
 
