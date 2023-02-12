@@ -496,7 +496,7 @@ function searchTable(value, data)
 {
     let filteredData = [];
 
-    for (let i = 0; i < data.length; i++)
+    for (let i = 1; i < data.length; i++)
     {
         value = value.toLowerCase();
         let name = data[i].name.toLowerCase();
